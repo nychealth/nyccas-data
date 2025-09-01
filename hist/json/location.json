@@ -1,5 +1,12 @@
 [
     {
+        "SiteID": "36061NY08653",
+        "Latitude": 40.722288,
+        "Longitude": -73.974651,
+        "SiteName": "FDR",
+        "Address": "Southbound FDR access Road between E 10th St and E 6th St"
+    },
+    {
         "SiteID": "36061NY08454",
         "Latitude": 40.71651,
         "Longitude": -73.997004,
@@ -28,18 +35,18 @@
         "Address": "S 4th St NS 1E of Roebling St"
     },
     {
-        "SiteID": "36061NY08552",
-        "Latitude": 40.718073,
-        "Longitude": -73.986059,
-        "SiteName": "Williamsburg Bridge",
-        "Address": "Delancey St NS 1E of Suffolk St"
-    },
-    {
         "SiteID": "36061NY10130",
         "Latitude": 40.761234,
         "Longitude": -73.963886,
         "SiteName": "Queensboro Bridge",
         "Address": "60 St NS1E of 2nd Ave"
+    },
+    {
+        "SiteID": "36061NY08552",
+        "Latitude": 40.718073,
+        "Longitude": -73.986059,
+        "SiteName": "Williamsburg Bridge",
+        "Address": "Delancey St NS 1E of Suffolk St"
     },
     {
         "SiteID": "36081NY08198",
@@ -70,11 +77,18 @@
         "Address": "Broadway ES1N of 35th St"
     },
     {
-        "SiteID": "36061NY08653",
-        "Latitude": 40.722288,
-        "Longitude": -73.974651,
-        "SiteName": "FDR",
-        "Address": "Southbound FDR access Road between E 10th St and E 6th St"
+        "SiteID": "36061NY09929",
+        "Latitude": 40.755082,
+        "Longitude": -73.990415,
+        "SiteName": "Midtown-DOT",
+        "Address": "N Side of W 39th between 8th and 7th Ave"
+    },
+    {
+        "SiteID": "36085NY04805",
+        "Latitude": 40.627925,
+        "Longitude": -74.145883,
+        "SiteName": "Port Richmond",
+        "Address": "East side of Willow Rd W between St. Adalbert Pl S and Dixon Ave"
     },
     {
         "SiteID": "36005NY11534",
@@ -110,19 +124,5 @@
         "Longitude": -74.151182,
         "SiteName": "SI Expwy",
         "Address": "South side of Victory Blvd between Gannon Ave S and I-278 (in front of staging area)"
-    },
-    {
-        "SiteID": "36061NY09929",
-        "Latitude": 40.755082,
-        "Longitude": -73.990415,
-        "SiteName": "Midtown-DOT",
-        "Address": "N Side of W 39th between 8th and 7th Ave"
-    },
-    {
-        "SiteID": "36085NY04805",
-        "Latitude": 40.627925,
-        "Longitude": -74.145883,
-        "SiteName": "Port Richmond",
-        "Address": "East side of Willow Rd W between St. Adalbert Pl S and Dixon Ave"
     }
 ]
