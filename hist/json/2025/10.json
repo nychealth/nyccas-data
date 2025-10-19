@@ -39252,6 +39252,18 @@
         "Value": 5.3
     },
     {
+        "ID": 836692,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 01:00:00.000",
+        "Value": 5.6
+    },
+    {
+        "ID": 836693,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 01:00:00.000",
+        "Value": 4.8
+    },
+    {
         "ID": 836624,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-12 01:00:00.000",
@@ -39342,18 +39354,6 @@
         "Value": 3.8
     },
     {
-        "ID": 836679,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 01:00:00.000",
-        "Value": 9.7
-    },
-    {
-        "ID": 836680,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 01:00:00.000",
-        "Value": 3.5
-    },
-    {
         "ID": 836682,
         "SiteID": "360610135",
         "ObservationTimeUTC": "2025-10-12 01:00:00.000",
@@ -39390,16 +39390,46 @@
         "Value": 6.4
     },
     {
-        "ID": 836692,
-        "SiteID": "360810124",
+        "ID": 836679,
+        "SiteID": "360470052",
         "ObservationTimeUTC": "2025-10-12 01:00:00.000",
-        "Value": 5.6
+        "Value": 9.7
     },
     {
-        "ID": 836693,
-        "SiteID": "360810120",
+        "ID": 836680,
+        "SiteID": "360610115",
         "ObservationTimeUTC": "2025-10-12 01:00:00.000",
-        "Value": 4.8
+        "Value": 3.5
+    },
+    {
+        "ID": 836681,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 02:00:00.000",
+        "Value": 5.0
+    },
+    {
+        "ID": 836689,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 02:00:00.000",
+        "Value": 5.4
+    },
+    {
+        "ID": 836690,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 02:00:00.000",
+        "Value": 5.2
+    },
+    {
+        "ID": 836691,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 02:00:00.000",
+        "Value": 6.2
+    },
+    {
+        "ID": 836687,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 02:00:00.000",
+        "Value": 4.4
     },
     {
         "ID": 836694,
@@ -39430,36 +39460,6 @@
         "SiteID": "360050112",
         "ObservationTimeUTC": "2025-10-12 02:00:00.000",
         "Value": 5.4
-    },
-    {
-        "ID": 836689,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 02:00:00.000",
-        "Value": 5.4
-    },
-    {
-        "ID": 836690,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 02:00:00.000",
-        "Value": 5.2
-    },
-    {
-        "ID": 836691,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 02:00:00.000",
-        "Value": 6.2
-    },
-    {
-        "ID": 836687,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 02:00:00.000",
-        "Value": 4.4
-    },
-    {
-        "ID": 836681,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 02:00:00.000",
-        "Value": 5.0
     },
     {
         "ID": 836649,
@@ -39696,66 +39696,6 @@
         "Value": 4.7
     },
     {
-        "ID": 836738,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
-        "Value": 4.5
-    },
-    {
-        "ID": 836739,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
-        "Value": 0.3
-    },
-    {
-        "ID": 836740,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
-        "Value": 1.5
-    },
-    {
-        "ID": 836741,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
-        "Value": 1.2
-    },
-    {
-        "ID": 836742,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
-        "Value": 4.6
-    },
-    {
-        "ID": 836743,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
-        "Value": 4.5
-    },
-    {
-        "ID": 836744,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
-        "Value": 4.7
-    },
-    {
-        "ID": 836745,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
-        "Value": 5.1
-    },
-    {
-        "ID": 836746,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
-        "Value": 4.0
-    },
-    {
-        "ID": 836747,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
-        "Value": 4.7
-    },
-    {
         "ID": 836699,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-12 04:00:00.000",
@@ -39844,6 +39784,120 @@
         "SiteID": "36081NY08198",
         "ObservationTimeUTC": "2025-10-12 04:00:00.000",
         "Value": 3.17
+    },
+    {
+        "ID": 836738,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
+        "Value": 4.5
+    },
+    {
+        "ID": 836739,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
+        "Value": 0.3
+    },
+    {
+        "ID": 836740,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
+        "Value": 1.5
+    },
+    {
+        "ID": 836741,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
+        "Value": 1.2
+    },
+    {
+        "ID": 836742,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
+        "Value": 4.6
+    },
+    {
+        "ID": 836743,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
+        "Value": 4.5
+    },
+    {
+        "ID": 836744,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
+        "Value": 4.7
+    },
+    {
+        "ID": 836745,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
+        "Value": 5.1
+    },
+    {
+        "ID": 836746,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
+        "Value": 4.0
+    },
+    {
+        "ID": 836747,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 04:00:00.000",
+        "Value": 4.7
+    },
+    {
+        "ID": 836763,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 836764,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
+        "Value": 1.5
+    },
+    {
+        "ID": 836765,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 836766,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
+        "Value": 2.5
+    },
+    {
+        "ID": 836767,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
+        "Value": 4.4
+    },
+    {
+        "ID": 836768,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
+        "Value": 5.2
+    },
+    {
+        "ID": 836769,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
+        "Value": 3.9
+    },
+    {
+        "ID": 836770,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
+        "Value": 3.9
+    },
+    {
+        "ID": 836771,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
+        "Value": 4.8
     },
     {
         "ID": 836723,
@@ -39936,114 +39990,6 @@
         "Value": 2.99
     },
     {
-        "ID": 836763,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 836764,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
-        "Value": 1.5
-    },
-    {
-        "ID": 836765,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 836766,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
-        "Value": 2.5
-    },
-    {
-        "ID": 836767,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
-        "Value": 4.4
-    },
-    {
-        "ID": 836768,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
-        "Value": 5.2
-    },
-    {
-        "ID": 836769,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
-        "Value": 3.9
-    },
-    {
-        "ID": 836770,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
-        "Value": 3.9
-    },
-    {
-        "ID": 836771,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 05:00:00.000",
-        "Value": 4.8
-    },
-    {
-        "ID": 836787,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
-        "Value": 4.5
-    },
-    {
-        "ID": 836788,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
-        "Value": 4.2
-    },
-    {
-        "ID": 836789,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
-        "Value": 5.0
-    },
-    {
-        "ID": 836790,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
-        "Value": 3.9
-    },
-    {
-        "ID": 836791,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
-        "Value": 3.4
-    },
-    {
-        "ID": 836792,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
-        "Value": 4.4
-    },
-    {
-        "ID": 836793,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
-        "Value": 2.2
-    },
-    {
-        "ID": 836794,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
-        "Value": 4.7
-    },
-    {
-        "ID": 836795,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
-        "Value": 1.2
-    },
-    {
         "ID": 836748,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-12 06:00:00.000",
@@ -40132,6 +40078,114 @@
         "SiteID": "36081NY08198",
         "ObservationTimeUTC": "2025-10-12 06:00:00.000",
         "Value": 3.19
+    },
+    {
+        "ID": 836787,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
+        "Value": 4.5
+    },
+    {
+        "ID": 836788,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
+        "Value": 4.2
+    },
+    {
+        "ID": 836789,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
+        "Value": 5.0
+    },
+    {
+        "ID": 836790,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
+        "Value": 3.9
+    },
+    {
+        "ID": 836791,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
+        "Value": 3.4
+    },
+    {
+        "ID": 836792,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
+        "Value": 4.4
+    },
+    {
+        "ID": 836793,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
+        "Value": 2.2
+    },
+    {
+        "ID": 836794,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
+        "Value": 4.7
+    },
+    {
+        "ID": 836795,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 06:00:00.000",
+        "Value": 1.2
+    },
+    {
+        "ID": 836811,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
+        "Value": 4.4
+    },
+    {
+        "ID": 836812,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
+        "Value": 4.5
+    },
+    {
+        "ID": 836813,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 836814,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
+        "Value": 1.0
+    },
+    {
+        "ID": 836815,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 836816,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
+        "Value": 1.7
+    },
+    {
+        "ID": 836817,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
+        "Value": 4.2
+    },
+    {
+        "ID": 836818,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
+        "Value": 4.2
+    },
+    {
+        "ID": 836819,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
+        "Value": 4.4
     },
     {
         "ID": 836772,
@@ -40224,120 +40278,6 @@
         "Value": 3.12
     },
     {
-        "ID": 836811,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
-        "Value": 4.4
-    },
-    {
-        "ID": 836812,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
-        "Value": 4.5
-    },
-    {
-        "ID": 836813,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 836814,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
-        "Value": 1.0
-    },
-    {
-        "ID": 836815,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 836816,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
-        "Value": 1.7
-    },
-    {
-        "ID": 836817,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
-        "Value": 4.2
-    },
-    {
-        "ID": 836818,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
-        "Value": 4.2
-    },
-    {
-        "ID": 836819,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 07:00:00.000",
-        "Value": 4.4
-    },
-    {
-        "ID": 836835,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
-        "Value": 3.9
-    },
-    {
-        "ID": 836836,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 836837,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
-        "Value": 4.5
-    },
-    {
-        "ID": 836838,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
-        "Value": 3.3
-    },
-    {
-        "ID": 836839,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
-        "Value": 4.2
-    },
-    {
-        "ID": 836840,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
-        "Value": 4.1
-    },
-    {
-        "ID": 836841,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
-        "Value": 4.3
-    },
-    {
-        "ID": 836842,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
-        "Value": 2.0
-    },
-    {
-        "ID": 836843,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
-        "Value": 3.5
-    },
-    {
-        "ID": 836844,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
-        "Value": 3.7
-    },
-    {
         "ID": 836796,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-12 08:00:00.000",
@@ -40426,6 +40366,126 @@
         "SiteID": "36081NY08198",
         "ObservationTimeUTC": "2025-10-12 08:00:00.000",
         "Value": 3.21
+    },
+    {
+        "ID": 836835,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
+        "Value": 3.9
+    },
+    {
+        "ID": 836836,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
+        "Value": 1.3
+    },
+    {
+        "ID": 836837,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
+        "Value": 4.5
+    },
+    {
+        "ID": 836838,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 836839,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
+        "Value": 4.2
+    },
+    {
+        "ID": 836840,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
+        "Value": 4.1
+    },
+    {
+        "ID": 836841,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
+        "Value": 4.3
+    },
+    {
+        "ID": 836842,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
+        "Value": 2.0
+    },
+    {
+        "ID": 836843,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
+        "Value": 3.5
+    },
+    {
+        "ID": 836844,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 08:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 836860,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
+        "Value": 3.9
+    },
+    {
+        "ID": 836861,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 836862,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 836863,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
+        "Value": 3.6
+    },
+    {
+        "ID": 836864,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
+        "Value": 4.3
+    },
+    {
+        "ID": 836865,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 836866,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 836867,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
+        "Value": 3.9
+    },
+    {
+        "ID": 836868,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
+        "Value": 4.7
+    },
+    {
+        "ID": 836869,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
+        "Value": 4.0
     },
     {
         "ID": 836820,
@@ -40518,126 +40578,6 @@
         "Value": 3.4
     },
     {
-        "ID": 836860,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
-        "Value": 3.9
-    },
-    {
-        "ID": 836861,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 836862,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 836863,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
-        "Value": 3.6
-    },
-    {
-        "ID": 836864,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
-        "Value": 4.3
-    },
-    {
-        "ID": 836865,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 836866,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
-        "Value": 1.9
-    },
-    {
-        "ID": 836867,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
-        "Value": 3.9
-    },
-    {
-        "ID": 836868,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
-        "Value": 4.7
-    },
-    {
-        "ID": 836869,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 09:00:00.000",
-        "Value": 4.0
-    },
-    {
-        "ID": 836885,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
-        "Value": 4.1
-    },
-    {
-        "ID": 836886,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
-        "Value": 4.2
-    },
-    {
-        "ID": 836887,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
-        "Value": 4.8
-    },
-    {
-        "ID": 836888,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 836889,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 836890,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 836891,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
-        "Value": 3.4
-    },
-    {
-        "ID": 836892,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
-        "Value": 4.3
-    },
-    {
-        "ID": 836893,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
-        "Value": 4.0
-    },
-    {
-        "ID": 836894,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
-        "Value": 4.2
-    },
-    {
         "ID": 836845,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-12 10:00:00.000",
@@ -40726,6 +40666,126 @@
         "SiteID": "36081NY08198",
         "ObservationTimeUTC": "2025-10-12 10:00:00.000",
         "Value": 3.26
+    },
+    {
+        "ID": 836885,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
+        "Value": 4.1
+    },
+    {
+        "ID": 836886,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
+        "Value": 4.2
+    },
+    {
+        "ID": 836887,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
+        "Value": 4.8
+    },
+    {
+        "ID": 836888,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 836889,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 836890,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 836891,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
+        "Value": 3.4
+    },
+    {
+        "ID": 836892,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
+        "Value": 4.3
+    },
+    {
+        "ID": 836893,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
+        "Value": 4.0
+    },
+    {
+        "ID": 836894,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 10:00:00.000",
+        "Value": 4.2
+    },
+    {
+        "ID": 836910,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
+        "Value": 4.0
+    },
+    {
+        "ID": 836911,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
+        "Value": 3.6
+    },
+    {
+        "ID": 836912,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
+        "Value": 2.4
+    },
+    {
+        "ID": 836913,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
+        "Value": 3.6
+    },
+    {
+        "ID": 836914,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
+        "Value": 4.0
+    },
+    {
+        "ID": 836915,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
+        "Value": 4.6
+    },
+    {
+        "ID": 836916,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
+        "Value": 2.1
+    },
+    {
+        "ID": 836917,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
+        "Value": 4.2
+    },
+    {
+        "ID": 836918,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
+        "Value": 0.1
+    },
+    {
+        "ID": 836919,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
+        "Value": 4.1
     },
     {
         "ID": 836870,
@@ -40818,126 +40878,6 @@
         "Value": 3.31
     },
     {
-        "ID": 836910,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
-        "Value": 4.0
-    },
-    {
-        "ID": 836911,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
-        "Value": 3.6
-    },
-    {
-        "ID": 836912,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 836913,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
-        "Value": 3.6
-    },
-    {
-        "ID": 836914,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
-        "Value": 4.0
-    },
-    {
-        "ID": 836915,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
-        "Value": 4.6
-    },
-    {
-        "ID": 836916,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
-        "Value": 2.1
-    },
-    {
-        "ID": 836917,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
-        "Value": 4.2
-    },
-    {
-        "ID": 836918,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
-        "Value": 0.1
-    },
-    {
-        "ID": 836919,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 11:00:00.000",
-        "Value": 4.1
-    },
-    {
-        "ID": 836934,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
-        "Value": 3.4
-    },
-    {
-        "ID": 836935,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
-        "Value": 4.0
-    },
-    {
-        "ID": 836936,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 836937,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
-        "Value": 4.4
-    },
-    {
-        "ID": 836938,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
-        "Value": 1.7
-    },
-    {
-        "ID": 836939,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
-        "Value": 3.5
-    },
-    {
-        "ID": 836940,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
-        "Value": 4.2
-    },
-    {
-        "ID": 836941,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 836942,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
-        "Value": 4.0
-    },
-    {
-        "ID": 836943,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
-        "Value": 4.2
-    },
-    {
         "ID": 836895,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-12 12:00:00.000",
@@ -41028,10 +40968,130 @@
         "Value": 3.37
     },
     {
+        "ID": 836934,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
+        "Value": 3.4
+    },
+    {
+        "ID": 836935,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
+        "Value": 4.0
+    },
+    {
+        "ID": 836936,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 836937,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
+        "Value": 4.4
+    },
+    {
+        "ID": 836938,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
+        "Value": 1.7
+    },
+    {
+        "ID": 836939,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
+        "Value": 3.5
+    },
+    {
+        "ID": 836940,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
+        "Value": 4.2
+    },
+    {
+        "ID": 836941,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 836942,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
+        "Value": 4.0
+    },
+    {
+        "ID": 836943,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 12:00:00.000",
+        "Value": 4.2
+    },
+    {
         "ID": 836944,
         "SiteID": "36061NY09734",
         "ObservationTimeUTC": "2025-10-12 13:00:00.000",
         "Value": 3.49
+    },
+    {
+        "ID": 836959,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 836960,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
+        "Value": 3.4
+    },
+    {
+        "ID": 836961,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
+        "Value": 4.1
+    },
+    {
+        "ID": 836962,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 836963,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 836964,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 836965,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 836966,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 836967,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
+        "Value": 2.8
+    },
+    {
+        "ID": 836968,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
+        "Value": 4.3
     },
     {
         "ID": 836920,
@@ -41118,130 +41178,10 @@
         "Value": 3.32
     },
     {
-        "ID": 836959,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 836960,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
-        "Value": 3.4
-    },
-    {
-        "ID": 836961,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
-        "Value": 4.1
-    },
-    {
-        "ID": 836962,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 836963,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 836964,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 836965,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 836966,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 836967,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
-        "Value": 2.8
-    },
-    {
-        "ID": 836968,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 13:00:00.000",
-        "Value": 4.3
-    },
-    {
         "ID": 836969,
         "SiteID": "36061NY08653",
         "ObservationTimeUTC": "2025-10-12 14:00:00.000",
         "Value": 3.8
-    },
-    {
-        "ID": 836984,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
-        "Value": 3.5
-    },
-    {
-        "ID": 836985,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 836986,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 836987,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 836988,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
-        "Value": 3.3
-    },
-    {
-        "ID": 836989,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
-        "Value": 4.3
-    },
-    {
-        "ID": 836990,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 836991,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
-        "Value": 2.2
-    },
-    {
-        "ID": 836992,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
-        "Value": 4.2
-    },
-    {
-        "ID": 836993,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
-        "Value": 1.7
     },
     {
         "ID": 836945,
@@ -41328,10 +41268,130 @@
         "Value": 3.29
     },
     {
+        "ID": 836984,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
+        "Value": 3.5
+    },
+    {
+        "ID": 836985,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 836986,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
+        "Value": 2.4
+    },
+    {
+        "ID": 836987,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 836988,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 836989,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
+        "Value": 4.3
+    },
+    {
+        "ID": 836990,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 836991,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
+        "Value": 2.2
+    },
+    {
+        "ID": 836992,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
+        "Value": 4.2
+    },
+    {
+        "ID": 836993,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 14:00:00.000",
+        "Value": 1.7
+    },
+    {
         "ID": 836994,
         "SiteID": "36061NY08653",
         "ObservationTimeUTC": "2025-10-12 15:00:00.000",
         "Value": 3.68
+    },
+    {
+        "ID": 837009,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
+        "Value": 3.9
+    },
+    {
+        "ID": 837010,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
+        "Value": 2.8
+    },
+    {
+        "ID": 837011,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
+        "Value": 2.1
+    },
+    {
+        "ID": 837012,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
+        "Value": 3.4
+    },
+    {
+        "ID": 837013,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
+        "Value": 3.6
+    },
+    {
+        "ID": 837014,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
+        "Value": 4.4
+    },
+    {
+        "ID": 837015,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 837016,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
+        "Value": 3.4
+    },
+    {
+        "ID": 837017,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
+        "Value": 4.2
+    },
+    {
+        "ID": 837018,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
+        "Value": 2.7
     },
     {
         "ID": 836970,
@@ -41418,130 +41478,10 @@
         "Value": 3.33
     },
     {
-        "ID": 837009,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
-        "Value": 3.9
-    },
-    {
-        "ID": 837010,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
-        "Value": 2.8
-    },
-    {
-        "ID": 837011,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
-        "Value": 2.1
-    },
-    {
-        "ID": 837012,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
-        "Value": 3.4
-    },
-    {
-        "ID": 837013,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
-        "Value": 3.6
-    },
-    {
-        "ID": 837014,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
-        "Value": 4.4
-    },
-    {
-        "ID": 837015,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 837016,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
-        "Value": 3.4
-    },
-    {
-        "ID": 837017,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
-        "Value": 4.2
-    },
-    {
-        "ID": 837018,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 15:00:00.000",
-        "Value": 2.7
-    },
-    {
         "ID": 837019,
         "SiteID": "36061NY08653",
         "ObservationTimeUTC": "2025-10-12 16:00:00.000",
         "Value": 3.64
-    },
-    {
-        "ID": 837034,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 837035,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 837036,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
-        "Value": 4.4
-    },
-    {
-        "ID": 837037,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
-        "Value": 2.5
-    },
-    {
-        "ID": 837038,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 837039,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
-        "Value": 4.5
-    },
-    {
-        "ID": 837040,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
-        "Value": 3.4
-    },
-    {
-        "ID": 837041,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 837042,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
-        "Value": 3.6
-    },
-    {
-        "ID": 837043,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
-        "Value": 2.3
     },
     {
         "ID": 836995,
@@ -41628,10 +41568,130 @@
         "Value": 3.39
     },
     {
+        "ID": 837034,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 837035,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 837036,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
+        "Value": 4.4
+    },
+    {
+        "ID": 837037,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
+        "Value": 2.5
+    },
+    {
+        "ID": 837038,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 837039,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
+        "Value": 4.5
+    },
+    {
+        "ID": 837040,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
+        "Value": 3.4
+    },
+    {
+        "ID": 837041,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 837042,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
+        "Value": 3.6
+    },
+    {
+        "ID": 837043,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 16:00:00.000",
+        "Value": 2.3
+    },
+    {
         "ID": 837044,
         "SiteID": "36061NY08653",
         "ObservationTimeUTC": "2025-10-12 17:00:00.000",
         "Value": 3.69
+    },
+    {
+        "ID": 837059,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 837060,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
+        "Value": 4.6
+    },
+    {
+        "ID": 837061,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
+        "Value": 3.5
+    },
+    {
+        "ID": 837062,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
+        "Value": 4.4
+    },
+    {
+        "ID": 837063,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
+        "Value": 3.5
+    },
+    {
+        "ID": 837064,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 837065,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 837066,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
+        "Value": 2.4
+    },
+    {
+        "ID": 837067,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 837068,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
+        "Value": 3.0
     },
     {
         "ID": 837020,
@@ -41718,130 +41778,10 @@
         "Value": 3.13
     },
     {
-        "ID": 837059,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 837060,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
-        "Value": 4.6
-    },
-    {
-        "ID": 837061,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
-        "Value": 3.5
-    },
-    {
-        "ID": 837062,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
-        "Value": 4.4
-    },
-    {
-        "ID": 837063,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
-        "Value": 3.5
-    },
-    {
-        "ID": 837064,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 837065,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 837066,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 837067,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 837068,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 17:00:00.000",
-        "Value": 3.0
-    },
-    {
         "ID": 837069,
         "SiteID": "36061NY08653",
         "ObservationTimeUTC": "2025-10-12 18:00:00.000",
         "Value": 3.49
-    },
-    {
-        "ID": 837085,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
-        "Value": 3.9
-    },
-    {
-        "ID": 837086,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
-        "Value": 2.2
-    },
-    {
-        "ID": 837087,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
-        "Value": 4.4
-    },
-    {
-        "ID": 837088,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
-        "Value": 3.3
-    },
-    {
-        "ID": 837089,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
-        "Value": 3.4
-    },
-    {
-        "ID": 837090,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
-        "Value": 3.3
-    },
-    {
-        "ID": 837091,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
-        "Value": 3.5
-    },
-    {
-        "ID": 837092,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
-        "Value": 4.1
-    },
-    {
-        "ID": 837093,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 837094,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
-        "Value": 5.3
     },
     {
         "ID": 837045,
@@ -41926,6 +41866,126 @@
         "SiteID": "36081NY08198",
         "ObservationTimeUTC": "2025-10-12 18:00:00.000",
         "Value": 2.89
+    },
+    {
+        "ID": 837085,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
+        "Value": 3.9
+    },
+    {
+        "ID": 837086,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
+        "Value": 2.2
+    },
+    {
+        "ID": 837087,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
+        "Value": 4.4
+    },
+    {
+        "ID": 837088,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 837089,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
+        "Value": 3.4
+    },
+    {
+        "ID": 837090,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 837091,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
+        "Value": 3.5
+    },
+    {
+        "ID": 837092,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
+        "Value": 4.1
+    },
+    {
+        "ID": 837093,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 837094,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 18:00:00.000",
+        "Value": 5.3
+    },
+    {
+        "ID": 837110,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
+        "Value": 2.8
+    },
+    {
+        "ID": 837111,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 837112,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
+        "Value": 5.2
+    },
+    {
+        "ID": 837113,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 837114,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 837115,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 837116,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 837117,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
+        "Value": 3.6
+    },
+    {
+        "ID": 837118,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
+        "Value": 4.1
+    },
+    {
+        "ID": 837119,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
+        "Value": 2.9
     },
     {
         "ID": 837070,
@@ -42018,126 +42078,6 @@
         "Value": 2.66
     },
     {
-        "ID": 837110,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
-        "Value": 2.8
-    },
-    {
-        "ID": 837111,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 837112,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
-        "Value": 5.2
-    },
-    {
-        "ID": 837113,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 837114,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 837115,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 837116,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 837117,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
-        "Value": 3.6
-    },
-    {
-        "ID": 837118,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
-        "Value": 4.1
-    },
-    {
-        "ID": 837119,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 19:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 837135,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
-        "Value": 0.8
-    },
-    {
-        "ID": 837136,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 837137,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 837138,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 837139,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
-        "Value": 2.8
-    },
-    {
-        "ID": 837140,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 837141,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 837142,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
-        "Value": 2.8
-    },
-    {
-        "ID": 837143,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
-        "Value": 3.3
-    },
-    {
-        "ID": 837144,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
-        "Value": 3.3
-    },
-    {
         "ID": 837095,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-12 20:00:00.000",
@@ -42226,6 +42166,126 @@
         "SiteID": "36081NY08198",
         "ObservationTimeUTC": "2025-10-12 20:00:00.000",
         "Value": 2.73
+    },
+    {
+        "ID": 837135,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
+        "Value": 0.8
+    },
+    {
+        "ID": 837136,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 837137,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 837138,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 837139,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
+        "Value": 2.8
+    },
+    {
+        "ID": 837140,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 837141,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 837142,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
+        "Value": 2.8
+    },
+    {
+        "ID": 837143,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 837144,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 20:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 837160,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 837161,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 837162,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 837163,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 837164,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
+        "Value": 2.1
+    },
+    {
+        "ID": 837165,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
+        "Value": 4.2
+    },
+    {
+        "ID": 837166,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
+        "Value": 0.7
+    },
+    {
+        "ID": 837167,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
+        "Value": 2.4
+    },
+    {
+        "ID": 837168,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 837169,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
+        "Value": 2.8
     },
     {
         "ID": 837120,
@@ -42318,126 +42378,6 @@
         "Value": 2.63
     },
     {
-        "ID": 837160,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 837161,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 837162,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
-        "Value": 3.3
-    },
-    {
-        "ID": 837163,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 837164,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
-        "Value": 2.1
-    },
-    {
-        "ID": 837165,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
-        "Value": 4.2
-    },
-    {
-        "ID": 837166,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
-        "Value": 0.7
-    },
-    {
-        "ID": 837167,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 837168,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 837169,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 21:00:00.000",
-        "Value": 2.8
-    },
-    {
-        "ID": 837185,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
-        "Value": 3.3
-    },
-    {
-        "ID": 837186,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
-        "Value": 1.8
-    },
-    {
-        "ID": 837187,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
-        "Value": 2.1
-    },
-    {
-        "ID": 837188,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
-        "Value": 2.3
-    },
-    {
-        "ID": 837189,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
-        "Value": 2.2
-    },
-    {
-        "ID": 837190,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 837191,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 837192,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
-        "Value": 2.6
-    },
-    {
-        "ID": 837193,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 837194,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
-        "Value": 2.0
-    },
-    {
         "ID": 837145,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-12 22:00:00.000",
@@ -42526,6 +42466,126 @@
         "SiteID": "36081NY08198",
         "ObservationTimeUTC": "2025-10-12 22:00:00.000",
         "Value": 2.51
+    },
+    {
+        "ID": 837185,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 837186,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
+        "Value": 1.8
+    },
+    {
+        "ID": 837187,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
+        "Value": 2.1
+    },
+    {
+        "ID": 837188,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
+        "Value": 2.3
+    },
+    {
+        "ID": 837189,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
+        "Value": 2.2
+    },
+    {
+        "ID": 837190,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
+        "Value": 2.4
+    },
+    {
+        "ID": 837191,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 837192,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
+        "Value": 2.6
+    },
+    {
+        "ID": 837193,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 837194,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 22:00:00.000",
+        "Value": 2.0
+    },
+    {
+        "ID": 837210,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 837211,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
+        "Value": 1.7
+    },
+    {
+        "ID": 837212,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 837213,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
+        "Value": 1.8
+    },
+    {
+        "ID": 837214,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
+        "Value": 2.5
+    },
+    {
+        "ID": 837215,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
+        "Value": 2.5
+    },
+    {
+        "ID": 837216,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 837217,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
+        "Value": 1.5
+    },
+    {
+        "ID": 837218,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 837219,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
+        "Value": 0.9
     },
     {
         "ID": 837170,
@@ -42618,126 +42678,6 @@
         "Value": 2.33
     },
     {
-        "ID": 837210,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
-        "Value": 1.9
-    },
-    {
-        "ID": 837211,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
-        "Value": 1.7
-    },
-    {
-        "ID": 837212,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 837213,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
-        "Value": 1.8
-    },
-    {
-        "ID": 837214,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
-        "Value": 2.5
-    },
-    {
-        "ID": 837215,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
-        "Value": 2.5
-    },
-    {
-        "ID": 837216,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
-        "Value": 3.3
-    },
-    {
-        "ID": 837217,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
-        "Value": 1.5
-    },
-    {
-        "ID": 837218,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 837219,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-12 23:00:00.000",
-        "Value": 0.9
-    },
-    {
-        "ID": 837235,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 837236,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
-        "Value": 0.5
-    },
-    {
-        "ID": 837237,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
-        "Value": 0.5
-    },
-    {
-        "ID": 837238,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
-        "Value": 1.6
-    },
-    {
-        "ID": 837239,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
-        "Value": 1.4
-    },
-    {
-        "ID": 837240,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
-        "Value": 2.5
-    },
-    {
-        "ID": 837241,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
-        "Value": 1.9
-    },
-    {
-        "ID": 837242,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
-        "Value": 2.3
-    },
-    {
-        "ID": 837243,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 837244,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
-        "Value": 1.5
-    },
-    {
         "ID": 837195,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-13 00:00:00.000",
@@ -42826,6 +42766,102 @@
         "SiteID": "36081NY08198",
         "ObservationTimeUTC": "2025-10-13 00:00:00.000",
         "Value": 2.49
+    },
+    {
+        "ID": 837235,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
+        "Value": 2.4
+    },
+    {
+        "ID": 837236,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
+        "Value": 0.5
+    },
+    {
+        "ID": 837237,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
+        "Value": 0.5
+    },
+    {
+        "ID": 837238,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
+        "Value": 1.6
+    },
+    {
+        "ID": 837239,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
+        "Value": 1.4
+    },
+    {
+        "ID": 837240,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
+        "Value": 2.5
+    },
+    {
+        "ID": 837241,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 837242,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
+        "Value": 2.3
+    },
+    {
+        "ID": 837243,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 837244,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-13 00:00:00.000",
+        "Value": 1.5
+    },
+    {
+        "ID": 837267,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-13 01:00:00.000",
+        "Value": 2.3
+    },
+    {
+        "ID": 837260,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-13 01:00:00.000",
+        "Value": 1.7
+    },
+    {
+        "ID": 837261,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-13 01:00:00.000",
+        "Value": 2.0
+    },
+    {
+        "ID": 837262,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-13 01:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 837263,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-13 01:00:00.000",
+        "Value": 2.5
+    },
+    {
+        "ID": 837277,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-13 01:00:00.000",
+        "Value": 1.6
     },
     {
         "ID": 837220,
@@ -42918,36 +42954,6 @@
         "Value": 2.47
     },
     {
-        "ID": 837277,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-13 01:00:00.000",
-        "Value": 1.6
-    },
-    {
-        "ID": 837260,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-13 01:00:00.000",
-        "Value": 1.7
-    },
-    {
-        "ID": 837261,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-13 01:00:00.000",
-        "Value": 2.0
-    },
-    {
-        "ID": 837262,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-13 01:00:00.000",
-        "Value": 1.9
-    },
-    {
-        "ID": 837263,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-13 01:00:00.000",
-        "Value": 2.5
-    },
-    {
         "ID": 837269,
         "SiteID": "360810120",
         "ObservationTimeUTC": "2025-10-13 01:00:00.000",
@@ -42966,12 +42972,6 @@
         "Value": 1.5
     },
     {
-        "ID": 837267,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-13 01:00:00.000",
-        "Value": 2.3
-    },
-    {
         "ID": 837274,
         "SiteID": "360470118",
         "ObservationTimeUTC": "2025-10-13 01:00:00.000",
@@ -42988,12 +42988,6 @@
         "SiteID": "360810124",
         "ObservationTimeUTC": "2025-10-13 02:00:00.000",
         "Value": 2.7
-    },
-    {
-        "ID": 837268,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-13 02:00:00.000",
-        "Value": 2.2
     },
     {
         "ID": 837272,
@@ -43024,6 +43018,12 @@
         "SiteID": "360050110",
         "ObservationTimeUTC": "2025-10-13 02:00:00.000",
         "Value": 1.5
+    },
+    {
+        "ID": 837268,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-13 02:00:00.000",
+        "Value": 2.2
     },
     {
         "ID": 837245,
@@ -46044,6 +46044,54 @@
         "Value": 1.2
     },
     {
+        "ID": 837821,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
+        "Value": 1.3
+    },
+    {
+        "ID": 837822,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
+        "Value": 1.3
+    },
+    {
+        "ID": 837823,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
+        "Value": 1.8
+    },
+    {
+        "ID": 837824,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 837825,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
+        "Value": 1.2
+    },
+    {
+        "ID": 837826,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
+        "Value": 1.4
+    },
+    {
+        "ID": 837833,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 837828,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
+        "Value": 1.0
+    },
+    {
         "ID": 837768,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-14 01:00:00.000",
@@ -46122,76 +46170,16 @@
         "Value": 2.93
     },
     {
-        "ID": 837821,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 837822,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 837823,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
-        "Value": 1.8
-    },
-    {
-        "ID": 837824,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
-        "Value": 1.9
-    },
-    {
-        "ID": 837825,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
-        "Value": 1.2
-    },
-    {
-        "ID": 837826,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
-        "Value": 1.4
-    },
-    {
-        "ID": 837828,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
-        "Value": 1.0
-    },
-    {
-        "ID": 837835,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 01:00:00.000",
-        "Value": 1.7
-    },
-    {
         "ID": 837839,
         "SiteID": "360610135",
         "ObservationTimeUTC": "2025-10-14 01:00:00.000",
         "Value": 1.5
     },
     {
-        "ID": 837833,
-        "SiteID": "360050112",
+        "ID": 837835,
+        "SiteID": "360470052",
         "ObservationTimeUTC": "2025-10-14 01:00:00.000",
-        "Value": 1.9
-    },
-    {
-        "ID": 837834,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 02:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 837820,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 02:00:00.000",
-        "Value": 0.3
+        "Value": 1.7
     },
     {
         "ID": 837836,
@@ -46210,6 +46198,12 @@
         "SiteID": "360610135",
         "ObservationTimeUTC": "2025-10-14 02:00:00.000",
         "Value": 1.5
+    },
+    {
+        "ID": 837820,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 02:00:00.000",
+        "Value": 0.3
     },
     {
         "ID": 837829,
@@ -46234,6 +46228,12 @@
         "SiteID": "360050110",
         "ObservationTimeUTC": "2025-10-14 02:00:00.000",
         "Value": 1.4
+    },
+    {
+        "ID": 837834,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 02:00:00.000",
+        "Value": 1.3
     },
     {
         "ID": 837827,
@@ -46572,6 +46572,54 @@
         "Value": 2.51
     },
     {
+        "ID": 837897,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
+        "Value": 1.4
+    },
+    {
+        "ID": 837898,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
+        "Value": 1.2
+    },
+    {
+        "ID": 837899,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
+        "Value": 0.1
+    },
+    {
+        "ID": 837900,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
+        "Value": 1.2
+    },
+    {
+        "ID": 837901,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
+        "Value": 1.4
+    },
+    {
+        "ID": 837902,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
+        "Value": 1.3
+    },
+    {
+        "ID": 837903,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 837904,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
+        "Value": 1.4
+    },
+    {
         "ID": 837861,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-14 05:00:00.000",
@@ -46648,108 +46696,6 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-14 05:00:00.000",
         "Value": 2.33
-    },
-    {
-        "ID": 837897,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
-        "Value": 1.4
-    },
-    {
-        "ID": 837898,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
-        "Value": 1.2
-    },
-    {
-        "ID": 837899,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
-        "Value": 0.1
-    },
-    {
-        "ID": 837900,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
-        "Value": 1.2
-    },
-    {
-        "ID": 837901,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
-        "Value": 1.4
-    },
-    {
-        "ID": 837902,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 837903,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
-        "Value": 1.9
-    },
-    {
-        "ID": 837904,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 05:00:00.000",
-        "Value": 1.4
-    },
-    {
-        "ID": 837919,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
-        "Value": 1.4
-    },
-    {
-        "ID": 837920,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
-        "Value": 0.2
-    },
-    {
-        "ID": 837921,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
-        "Value": 1.1
-    },
-    {
-        "ID": 837922,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
-        "Value": 1.1
-    },
-    {
-        "ID": 837923,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
-        "Value": 1.2
-    },
-    {
-        "ID": 837924,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
-        "Value": 0.3
-    },
-    {
-        "ID": 837925,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 837926,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
-        "Value": 1.2
-    },
-    {
-        "ID": 837927,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
-        "Value": 1.2
     },
     {
         "ID": 837883,
@@ -46830,6 +46776,108 @@
         "Value": 2.46
     },
     {
+        "ID": 837919,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
+        "Value": 1.4
+    },
+    {
+        "ID": 837920,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
+        "Value": 0.2
+    },
+    {
+        "ID": 837921,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
+        "Value": 1.1
+    },
+    {
+        "ID": 837922,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
+        "Value": 1.1
+    },
+    {
+        "ID": 837923,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
+        "Value": 1.2
+    },
+    {
+        "ID": 837924,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
+        "Value": 0.3
+    },
+    {
+        "ID": 837925,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
+        "Value": 1.3
+    },
+    {
+        "ID": 837926,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
+        "Value": 1.2
+    },
+    {
+        "ID": 837927,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 06:00:00.000",
+        "Value": 1.2
+    },
+    {
+        "ID": 837941,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
+        "Value": 1.5
+    },
+    {
+        "ID": 837942,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
+        "Value": 1.2
+    },
+    {
+        "ID": 837943,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
+        "Value": 1.2
+    },
+    {
+        "ID": 837944,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
+        "Value": 1.5
+    },
+    {
+        "ID": 837945,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
+        "Value": 1.3
+    },
+    {
+        "ID": 837946,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
+        "Value": 0.6
+    },
+    {
+        "ID": 837947,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
+        "Value": 1.1
+    },
+    {
+        "ID": 837948,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
+        "Value": 1.1
+    },
+    {
         "ID": 837905,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-14 07:00:00.000",
@@ -46906,114 +46954,6 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-14 07:00:00.000",
         "Value": 2.77
-    },
-    {
-        "ID": 837941,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
-        "Value": 1.5
-    },
-    {
-        "ID": 837942,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
-        "Value": 1.2
-    },
-    {
-        "ID": 837943,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
-        "Value": 1.2
-    },
-    {
-        "ID": 837944,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
-        "Value": 1.5
-    },
-    {
-        "ID": 837945,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 837946,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
-        "Value": 0.6
-    },
-    {
-        "ID": 837947,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
-        "Value": 1.1
-    },
-    {
-        "ID": 837948,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 07:00:00.000",
-        "Value": 1.1
-    },
-    {
-        "ID": 837963,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 837964,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
-        "Value": 1.4
-    },
-    {
-        "ID": 837965,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
-        "Value": 0.7
-    },
-    {
-        "ID": 837966,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
-        "Value": 0.4
-    },
-    {
-        "ID": 837967,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
-        "Value": 1.2
-    },
-    {
-        "ID": 837968,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 837969,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
-        "Value": 2.0
-    },
-    {
-        "ID": 837970,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
-        "Value": 1.4
-    },
-    {
-        "ID": 837971,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
-        "Value": 1.6
-    },
-    {
-        "ID": 837972,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
-        "Value": 1.4
     },
     {
         "ID": 837928,
@@ -47094,6 +47034,126 @@
         "Value": 2.86
     },
     {
+        "ID": 837963,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
+        "Value": 1.3
+    },
+    {
+        "ID": 837964,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
+        "Value": 1.4
+    },
+    {
+        "ID": 837965,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
+        "Value": 0.7
+    },
+    {
+        "ID": 837966,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
+        "Value": 0.4
+    },
+    {
+        "ID": 837967,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
+        "Value": 1.2
+    },
+    {
+        "ID": 837968,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
+        "Value": 1.3
+    },
+    {
+        "ID": 837969,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
+        "Value": 2.0
+    },
+    {
+        "ID": 837970,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
+        "Value": 1.4
+    },
+    {
+        "ID": 837971,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
+        "Value": 1.6
+    },
+    {
+        "ID": 837972,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 08:00:00.000",
+        "Value": 1.4
+    },
+    {
+        "ID": 837987,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
+        "Value": 1.0
+    },
+    {
+        "ID": 837988,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
+        "Value": 1.6
+    },
+    {
+        "ID": 837989,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 837990,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
+        "Value": 1.4
+    },
+    {
+        "ID": 837991,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
+        "Value": 1.3
+    },
+    {
+        "ID": 837992,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
+        "Value": 1.7
+    },
+    {
+        "ID": 837993,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
+        "Value": 1.6
+    },
+    {
+        "ID": 837994,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
+        "Value": 2.4
+    },
+    {
+        "ID": 837995,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
+        "Value": 1.5
+    },
+    {
+        "ID": 837996,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
+        "Value": 1.8
+    },
+    {
         "ID": 837949,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-14 09:00:00.000",
@@ -47170,126 +47230,6 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-14 09:00:00.000",
         "Value": 3.1
-    },
-    {
-        "ID": 837987,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
-        "Value": 1.0
-    },
-    {
-        "ID": 837988,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
-        "Value": 1.6
-    },
-    {
-        "ID": 837989,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 837990,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
-        "Value": 1.4
-    },
-    {
-        "ID": 837991,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 837992,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
-        "Value": 1.7
-    },
-    {
-        "ID": 837993,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
-        "Value": 1.6
-    },
-    {
-        "ID": 837994,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 837995,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
-        "Value": 1.5
-    },
-    {
-        "ID": 837996,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 09:00:00.000",
-        "Value": 1.8
-    },
-    {
-        "ID": 838011,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
-        "Value": 1.7
-    },
-    {
-        "ID": 838012,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
-        "Value": 1.9
-    },
-    {
-        "ID": 838013,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
-        "Value": 0.8
-    },
-    {
-        "ID": 838014,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 838015,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
-        "Value": 2.8
-    },
-    {
-        "ID": 838016,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
-        "Value": 1.8
-    },
-    {
-        "ID": 838017,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
-        "Value": 1.5
-    },
-    {
-        "ID": 838018,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
-        "Value": 2.1
-    },
-    {
-        "ID": 838019,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
-        "Value": 2.0
-    },
-    {
-        "ID": 838020,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
-        "Value": 2.0
     },
     {
         "ID": 837973,
@@ -47370,6 +47310,126 @@
         "Value": 3.92
     },
     {
+        "ID": 838011,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
+        "Value": 1.7
+    },
+    {
+        "ID": 838012,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 838013,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
+        "Value": 0.8
+    },
+    {
+        "ID": 838014,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
+        "Value": 1.3
+    },
+    {
+        "ID": 838015,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
+        "Value": 2.8
+    },
+    {
+        "ID": 838016,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
+        "Value": 1.8
+    },
+    {
+        "ID": 838017,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
+        "Value": 1.5
+    },
+    {
+        "ID": 838018,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
+        "Value": 2.1
+    },
+    {
+        "ID": 838019,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
+        "Value": 2.0
+    },
+    {
+        "ID": 838020,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 10:00:00.000",
+        "Value": 2.0
+    },
+    {
+        "ID": 838034,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 838035,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
+        "Value": 2.6
+    },
+    {
+        "ID": 838036,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
+        "Value": 1.8
+    },
+    {
+        "ID": 838037,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
+        "Value": 2.4
+    },
+    {
+        "ID": 838038,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
+        "Value": 2.0
+    },
+    {
+        "ID": 838039,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
+        "Value": 2.6
+    },
+    {
+        "ID": 838040,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 838041,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
+        "Value": 4.0
+    },
+    {
+        "ID": 838042,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
+        "Value": 2.6
+    },
+    {
+        "ID": 838043,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
+        "Value": 2.4
+    },
+    {
         "ID": 837997,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-14 11:00:00.000",
@@ -47446,126 +47506,6 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-14 11:00:00.000",
         "Value": 3.05
-    },
-    {
-        "ID": 838034,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 838035,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
-        "Value": 2.6
-    },
-    {
-        "ID": 838036,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
-        "Value": 1.8
-    },
-    {
-        "ID": 838037,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 838038,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
-        "Value": 2.0
-    },
-    {
-        "ID": 838039,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
-        "Value": 2.6
-    },
-    {
-        "ID": 838040,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 838041,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
-        "Value": 4.0
-    },
-    {
-        "ID": 838042,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
-        "Value": 2.6
-    },
-    {
-        "ID": 838043,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 11:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 838057,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838058,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
-        "Value": 3.5
-    },
-    {
-        "ID": 838059,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 838060,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
-        "Value": 1.6
-    },
-    {
-        "ID": 838061,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
-        "Value": 1.9
-    },
-    {
-        "ID": 838062,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
-        "Value": 2.5
-    },
-    {
-        "ID": 838063,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 838064,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
-        "Value": 2.5
-    },
-    {
-        "ID": 838065,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
-        "Value": 2.0
-    },
-    {
-        "ID": 838066,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
-        "Value": 3.0
     },
     {
         "ID": 838021,
@@ -47646,6 +47586,120 @@
         "Value": 2.94
     },
     {
+        "ID": 838057,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838058,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
+        "Value": 3.5
+    },
+    {
+        "ID": 838059,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
+        "Value": 1.3
+    },
+    {
+        "ID": 838060,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
+        "Value": 1.6
+    },
+    {
+        "ID": 838061,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 838062,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
+        "Value": 2.5
+    },
+    {
+        "ID": 838063,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 838064,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
+        "Value": 2.5
+    },
+    {
+        "ID": 838065,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
+        "Value": 2.0
+    },
+    {
+        "ID": 838066,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 12:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838080,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 838081,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
+        "Value": 1.8
+    },
+    {
+        "ID": 838082,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
+        "Value": 1.3
+    },
+    {
+        "ID": 838083,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
+        "Value": 1.7
+    },
+    {
+        "ID": 838084,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838085,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
+        "Value": 1.4
+    },
+    {
+        "ID": 838086,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838087,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838088,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
+        "Value": 2.0
+    },
+    {
         "ID": 838044,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-14 13:00:00.000",
@@ -47722,114 +47776,6 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-14 13:00:00.000",
         "Value": 3.61
-    },
-    {
-        "ID": 838080,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 838081,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
-        "Value": 1.8
-    },
-    {
-        "ID": 838082,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
-        "Value": 1.3
-    },
-    {
-        "ID": 838083,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
-        "Value": 1.7
-    },
-    {
-        "ID": 838084,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838085,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
-        "Value": 1.4
-    },
-    {
-        "ID": 838086,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838087,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838088,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 13:00:00.000",
-        "Value": 2.0
-    },
-    {
-        "ID": 838102,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
-        "Value": 2.0
-    },
-    {
-        "ID": 838103,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838104,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 838105,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
-        "Value": 0.3
-    },
-    {
-        "ID": 838106,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
-        "Value": 1.5
-    },
-    {
-        "ID": 838107,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 838108,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 838109,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 838110,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
-        "Value": 1.9
     },
     {
         "ID": 838067,
@@ -47910,6 +47856,120 @@
         "Value": 3.53
     },
     {
+        "ID": 838102,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
+        "Value": 2.0
+    },
+    {
+        "ID": 838103,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838104,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
+        "Value": 2.4
+    },
+    {
+        "ID": 838105,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
+        "Value": 0.3
+    },
+    {
+        "ID": 838106,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
+        "Value": 1.5
+    },
+    {
+        "ID": 838107,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 838108,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 838109,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 838110,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 14:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 838124,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
+        "Value": 3.6
+    },
+    {
+        "ID": 838125,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838126,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
+        "Value": 2.2
+    },
+    {
+        "ID": 838127,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 838128,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838129,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
+        "Value": 2.5
+    },
+    {
+        "ID": 838130,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 838131,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
+        "Value": 2.1
+    },
+    {
+        "ID": 838132,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838133,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
+        "Value": 1.6
+    },
+    {
         "ID": 838089,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-14 15:00:00.000",
@@ -47986,126 +48046,6 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-14 15:00:00.000",
         "Value": 3.33
-    },
-    {
-        "ID": 838124,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
-        "Value": 3.6
-    },
-    {
-        "ID": 838125,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838126,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
-        "Value": 2.2
-    },
-    {
-        "ID": 838127,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
-        "Value": 1.9
-    },
-    {
-        "ID": 838128,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838129,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
-        "Value": 2.5
-    },
-    {
-        "ID": 838130,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 838131,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
-        "Value": 2.1
-    },
-    {
-        "ID": 838132,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838133,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 15:00:00.000",
-        "Value": 1.6
-    },
-    {
-        "ID": 838147,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
-        "Value": 2.0
-    },
-    {
-        "ID": 838148,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
-        "Value": 1.4
-    },
-    {
-        "ID": 838149,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 838150,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838151,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
-        "Value": 3.9
-    },
-    {
-        "ID": 838152,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
-        "Value": 0.3
-    },
-    {
-        "ID": 838153,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 838154,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 838155,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
-        "Value": 2.8
-    },
-    {
-        "ID": 838156,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
-        "Value": 3.8
     },
     {
         "ID": 838111,
@@ -48186,6 +48126,102 @@
         "Value": 3.81
     },
     {
+        "ID": 838147,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
+        "Value": 2.0
+    },
+    {
+        "ID": 838148,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
+        "Value": 1.4
+    },
+    {
+        "ID": 838149,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 838150,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838151,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
+        "Value": 3.9
+    },
+    {
+        "ID": 838152,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
+        "Value": 0.3
+    },
+    {
+        "ID": 838153,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 838154,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 838155,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
+        "Value": 2.8
+    },
+    {
+        "ID": 838156,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 16:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 838170,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 17:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 838171,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 17:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 838172,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 17:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 838173,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 17:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 838174,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 17:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 838175,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 17:00:00.000",
+        "Value": 3.0
+    },
+    {
         "ID": 838134,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-14 17:00:00.000",
@@ -48262,102 +48298,6 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-14 17:00:00.000",
         "Value": 3.59
-    },
-    {
-        "ID": 838170,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 17:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 838171,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 17:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 838172,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 17:00:00.000",
-        "Value": 3.3
-    },
-    {
-        "ID": 838173,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 17:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 838174,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 17:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 838175,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 17:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838189,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 838190,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
-        "Value": 3.4
-    },
-    {
-        "ID": 838191,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 838192,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
-        "Value": 1.9
-    },
-    {
-        "ID": 838193,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
-        "Value": 1.2
-    },
-    {
-        "ID": 838194,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 838195,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
-        "Value": 2.8
-    },
-    {
-        "ID": 838196,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
-        "Value": 3.5
-    },
-    {
-        "ID": 838197,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 838198,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
-        "Value": 2.1
     },
     {
         "ID": 838157,
@@ -48438,6 +48378,126 @@
         "Value": 3.25
     },
     {
+        "ID": 838189,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 838190,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
+        "Value": 3.4
+    },
+    {
+        "ID": 838191,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 838192,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 838193,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
+        "Value": 1.2
+    },
+    {
+        "ID": 838194,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 838195,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
+        "Value": 2.8
+    },
+    {
+        "ID": 838196,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
+        "Value": 3.5
+    },
+    {
+        "ID": 838197,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 838198,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 18:00:00.000",
+        "Value": 2.1
+    },
+    {
+        "ID": 838212,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
+        "Value": 2.8
+    },
+    {
+        "ID": 838213,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 838214,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 838215,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
+        "Value": 2.6
+    },
+    {
+        "ID": 838216,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 838217,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 838218,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838219,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
+        "Value": 0.5
+    },
+    {
+        "ID": 838220,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 838221,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
+        "Value": 3.4
+    },
+    {
         "ID": 838176,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-14 19:00:00.000",
@@ -48514,126 +48574,6 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-14 19:00:00.000",
         "Value": 2.49
-    },
-    {
-        "ID": 838212,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
-        "Value": 2.8
-    },
-    {
-        "ID": 838213,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 838214,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 838215,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
-        "Value": 2.6
-    },
-    {
-        "ID": 838216,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 838217,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 838218,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838219,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
-        "Value": 0.5
-    },
-    {
-        "ID": 838220,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 838221,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 19:00:00.000",
-        "Value": 3.4
-    },
-    {
-        "ID": 838235,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 838236,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838237,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
-        "Value": 3.4
-    },
-    {
-        "ID": 838238,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
-        "Value": 2.2
-    },
-    {
-        "ID": 838239,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 838240,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 838241,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
-        "Value": 3.7
-    },
-    {
-        "ID": 838242,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 838243,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
-        "Value": 2.1
-    },
-    {
-        "ID": 838244,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
-        "Value": 1.8
     },
     {
         "ID": 838199,
@@ -48714,6 +48654,126 @@
         "Value": 4.27
     },
     {
+        "ID": 838235,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 838236,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838237,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
+        "Value": 3.4
+    },
+    {
+        "ID": 838238,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
+        "Value": 2.2
+    },
+    {
+        "ID": 838239,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
+        "Value": 2.4
+    },
+    {
+        "ID": 838240,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 838241,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 838242,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 838243,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
+        "Value": 2.1
+    },
+    {
+        "ID": 838244,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 20:00:00.000",
+        "Value": 1.8
+    },
+    {
+        "ID": 838258,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
+        "Value": 2.6
+    },
+    {
+        "ID": 838259,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838260,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
+        "Value": 2.4
+    },
+    {
+        "ID": 838261,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 838262,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
+        "Value": 3.5
+    },
+    {
+        "ID": 838263,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
+        "Value": 2.1
+    },
+    {
+        "ID": 838264,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
+        "Value": 1.9
+    },
+    {
+        "ID": 838265,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
+        "Value": 3.1
+    },
+    {
+        "ID": 838266,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
+        "Value": 3.5
+    },
+    {
+        "ID": 838267,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
+        "Value": 2.3
+    },
+    {
         "ID": 838222,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-14 21:00:00.000",
@@ -48790,126 +48850,6 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-14 21:00:00.000",
         "Value": 3.67
-    },
-    {
-        "ID": 838258,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
-        "Value": 2.6
-    },
-    {
-        "ID": 838259,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838260,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 838261,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 838262,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
-        "Value": 3.5
-    },
-    {
-        "ID": 838263,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
-        "Value": 2.1
-    },
-    {
-        "ID": 838264,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
-        "Value": 1.9
-    },
-    {
-        "ID": 838265,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
-        "Value": 3.1
-    },
-    {
-        "ID": 838266,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
-        "Value": 3.5
-    },
-    {
-        "ID": 838267,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 21:00:00.000",
-        "Value": 2.3
-    },
-    {
-        "ID": 838281,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838282,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
-        "Value": 3.6
-    },
-    {
-        "ID": 838283,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838284,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 838285,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
-        "Value": 2.3
-    },
-    {
-        "ID": 838286,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 838287,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
-        "Value": 2.4
-    },
-    {
-        "ID": 838288,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
-        "Value": 2.1
-    },
-    {
-        "ID": 838289,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
-        "Value": 2.6
-    },
-    {
-        "ID": 838290,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
-        "Value": 3.7
     },
     {
         "ID": 838245,
@@ -48990,6 +48930,126 @@
         "Value": 4.23
     },
     {
+        "ID": 838281,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838282,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
+        "Value": 3.6
+    },
+    {
+        "ID": 838283,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838284,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 838285,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
+        "Value": 2.3
+    },
+    {
+        "ID": 838286,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 838287,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
+        "Value": 2.4
+    },
+    {
+        "ID": 838288,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
+        "Value": 2.1
+    },
+    {
+        "ID": 838289,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
+        "Value": 2.6
+    },
+    {
+        "ID": 838290,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 22:00:00.000",
+        "Value": 3.7
+    },
+    {
+        "ID": 838303,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
+        "Value": 1.7
+    },
+    {
+        "ID": 838304,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 838305,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
+        "Value": 2.1
+    },
+    {
+        "ID": 838306,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 838307,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 838308,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838309,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838310,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 838311,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 838312,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
+        "Value": 2.1
+    },
+    {
         "ID": 838268,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-14 23:00:00.000",
@@ -49066,66 +49126,6 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-14 23:00:00.000",
         "Value": 4.11
-    },
-    {
-        "ID": 838303,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
-        "Value": 1.7
-    },
-    {
-        "ID": 838304,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
-        "Value": 3.3
-    },
-    {
-        "ID": 838305,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
-        "Value": 2.1
-    },
-    {
-        "ID": 838306,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 838307,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 838308,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838309,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838310,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 838311,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 838312,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-14 23:00:00.000",
-        "Value": 2.1
     },
     {
         "ID": 838313,
@@ -49272,6 +49272,66 @@
         "Value": 2.94
     },
     {
+        "ID": 838363,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
+        "Value": 1.7
+    },
+    {
+        "ID": 838366,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
+        "Value": 3.0
+    },
+    {
+        "ID": 838368,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
+        "Value": 2.8
+    },
+    {
+        "ID": 838369,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
+        "Value": 2.1
+    },
+    {
+        "ID": 838374,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 838375,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
+        "Value": 2.6
+    },
+    {
+        "ID": 838381,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
+        "Value": 1.1
+    },
+    {
+        "ID": 838371,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
+        "Value": 2.8
+    },
+    {
+        "ID": 838372,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
+        "Value": 2.3
+    },
+    {
+        "ID": 838378,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
+        "Value": 2.6
+    },
+    {
         "ID": 838314,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-15 01:00:00.000",
@@ -49344,66 +49404,6 @@
         "Value": 3.94
     },
     {
-        "ID": 838363,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
-        "Value": 1.7
-    },
-    {
-        "ID": 838366,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
-        "Value": 3.0
-    },
-    {
-        "ID": 838368,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
-        "Value": 2.8
-    },
-    {
-        "ID": 838369,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
-        "Value": 2.1
-    },
-    {
-        "ID": 838371,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
-        "Value": 2.8
-    },
-    {
-        "ID": 838372,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
-        "Value": 2.3
-    },
-    {
-        "ID": 838374,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
-        "Value": 3.3
-    },
-    {
-        "ID": 838375,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
-        "Value": 2.6
-    },
-    {
-        "ID": 838381,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
-        "Value": 1.1
-    },
-    {
-        "ID": 838378,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-15 01:00:00.000",
-        "Value": 2.6
-    },
-    {
         "ID": 838379,
         "SiteID": "360850111",
         "ObservationTimeUTC": "2025-10-15 02:00:00.000",
@@ -49416,6 +49416,12 @@
         "Value": 2.8
     },
     {
+        "ID": 838373,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-15 02:00:00.000",
+        "Value": 2.3
+    },
+    {
         "ID": 838376,
         "SiteID": "360810124",
         "ObservationTimeUTC": "2025-10-15 02:00:00.000",
@@ -49426,12 +49432,6 @@
         "SiteID": "360810120",
         "ObservationTimeUTC": "2025-10-15 02:00:00.000",
         "Value": 2.4
-    },
-    {
-        "ID": 838373,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-15 02:00:00.000",
-        "Value": 2.3
     },
     {
         "ID": 838370,
@@ -49614,6 +49614,12 @@
         "Value": 4.8
     },
     {
+        "ID": 838382,
+        "SiteID": "36047NY07974",
+        "ObservationTimeUTC": "2025-10-15 03:00:00.000",
+        "Value": 2.66
+    },
+    {
         "ID": 838396,
         "SiteID": "360050112",
         "ObservationTimeUTC": "2025-10-15 03:00:00.000",
@@ -49668,10 +49674,58 @@
         "Value": 2.8
     },
     {
-        "ID": 838382,
-        "SiteID": "36047NY07974",
-        "ObservationTimeUTC": "2025-10-15 03:00:00.000",
-        "Value": 2.66
+        "ID": 838417,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 838418,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
+        "Value": 2.7
+    },
+    {
+        "ID": 838419,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 838420,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
+        "Value": 3.2
+    },
+    {
+        "ID": 838421,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
+        "Value": 2.9
+    },
+    {
+        "ID": 838422,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
+        "Value": 2.5
+    },
+    {
+        "ID": 838423,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
+        "Value": 0.3
+    },
+    {
+        "ID": 838424,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
+        "Value": 2.5
+    },
+    {
+        "ID": 838425,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
+        "Value": 3.9
     },
     {
         "ID": 838383,
@@ -49750,60 +49804,6 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-15 04:00:00.000",
         "Value": 4.5
-    },
-    {
-        "ID": 838417,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 838418,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
-        "Value": 2.7
-    },
-    {
-        "ID": 838419,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 838420,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
-        "Value": 3.2
-    },
-    {
-        "ID": 838421,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
-        "Value": 2.9
-    },
-    {
-        "ID": 838422,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
-        "Value": 2.5
-    },
-    {
-        "ID": 838423,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
-        "Value": 0.3
-    },
-    {
-        "ID": 838424,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
-        "Value": 2.5
-    },
-    {
-        "ID": 838425,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-15 04:00:00.000",
-        "Value": 3.9
     },
     {
         "ID": 838426,
@@ -50946,36 +50946,6 @@
         "Value": 3.78
     },
     {
-        "ID": 838611,
-        "SiteID": "36005NY11534",
-        "ObservationTimeUTC": "2025-10-15 13:00:00.000",
-        "Value": 3.97
-    },
-    {
-        "ID": 838613,
-        "SiteID": "36061NY08653",
-        "ObservationTimeUTC": "2025-10-15 13:00:00.000",
-        "Value": 8.03
-    },
-    {
-        "ID": 838615,
-        "SiteID": "36081NY07615",
-        "ObservationTimeUTC": "2025-10-15 13:00:00.000",
-        "Value": 6.12
-    },
-    {
-        "ID": 838617,
-        "SiteID": "36085NY03820",
-        "ObservationTimeUTC": "2025-10-15 13:00:00.000",
-        "Value": 6.42
-    },
-    {
-        "ID": 838619,
-        "SiteID": "36047NY07974",
-        "ObservationTimeUTC": "2025-10-15 13:00:00.000",
-        "Value": 4.15
-    },
-    {
         "ID": 838623,
         "SiteID": "360850111",
         "ObservationTimeUTC": "2025-10-15 13:00:00.000",
@@ -51036,6 +51006,36 @@
         "Value": 2.8
     },
     {
+        "ID": 838611,
+        "SiteID": "36005NY11534",
+        "ObservationTimeUTC": "2025-10-15 13:00:00.000",
+        "Value": 3.97
+    },
+    {
+        "ID": 838613,
+        "SiteID": "36061NY08653",
+        "ObservationTimeUTC": "2025-10-15 13:00:00.000",
+        "Value": 8.03
+    },
+    {
+        "ID": 838615,
+        "SiteID": "36081NY07615",
+        "ObservationTimeUTC": "2025-10-15 13:00:00.000",
+        "Value": 6.12
+    },
+    {
+        "ID": 838617,
+        "SiteID": "36085NY03820",
+        "ObservationTimeUTC": "2025-10-15 13:00:00.000",
+        "Value": 6.42
+    },
+    {
+        "ID": 838619,
+        "SiteID": "36047NY07974",
+        "ObservationTimeUTC": "2025-10-15 13:00:00.000",
+        "Value": 4.15
+    },
+    {
         "ID": 838621,
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-15 13:00:00.000",
@@ -51076,24 +51076,6 @@
         "SiteID": "36005NY11534",
         "ObservationTimeUTC": "2025-10-15 14:00:00.000",
         "Value": 4.52
-    },
-    {
-        "ID": 838610,
-        "SiteID": "36005NY11790",
-        "ObservationTimeUTC": "2025-10-15 14:00:00.000",
-        "Value": 3.78
-    },
-    {
-        "ID": 838608,
-        "SiteID": "36061NY09734",
-        "ObservationTimeUTC": "2025-10-15 14:00:00.000",
-        "Value": 6.57
-    },
-    {
-        "ID": 838606,
-        "SiteID": "36061NY08454",
-        "ObservationTimeUTC": "2025-10-15 14:00:00.000",
-        "Value": 6.17
     },
     {
         "ID": 838646,
@@ -51156,6 +51138,24 @@
         "Value": 5.4
     },
     {
+        "ID": 838610,
+        "SiteID": "36005NY11790",
+        "ObservationTimeUTC": "2025-10-15 14:00:00.000",
+        "Value": 3.78
+    },
+    {
+        "ID": 838608,
+        "SiteID": "36061NY09734",
+        "ObservationTimeUTC": "2025-10-15 14:00:00.000",
+        "Value": 6.57
+    },
+    {
+        "ID": 838606,
+        "SiteID": "36061NY08454",
+        "ObservationTimeUTC": "2025-10-15 14:00:00.000",
+        "Value": 6.17
+    },
+    {
         "ID": 838604,
         "SiteID": "36005NY12387",
         "ObservationTimeUTC": "2025-10-15 14:00:00.000",
@@ -51178,66 +51178,6 @@
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-15 14:00:00.000",
         "Value": 10.3
-    },
-    {
-        "ID": 838669,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
-        "Value": 3.9
-    },
-    {
-        "ID": 838670,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
-        "Value": 6.0
-    },
-    {
-        "ID": 838671,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
-        "Value": 3.3
-    },
-    {
-        "ID": 838672,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
-        "Value": 5.2
-    },
-    {
-        "ID": 838673,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
-        "Value": 5.3
-    },
-    {
-        "ID": 838674,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
-        "Value": 4.4
-    },
-    {
-        "ID": 838675,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
-        "Value": 4.3
-    },
-    {
-        "ID": 838676,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
-        "Value": 5.7
-    },
-    {
-        "ID": 838677,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
-        "Value": 2.6
-    },
-    {
-        "ID": 838678,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
-        "Value": 2.5
     },
     {
         "ID": 838633,
@@ -51318,6 +51258,126 @@
         "Value": 4.91
     },
     {
+        "ID": 838669,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
+        "Value": 3.9
+    },
+    {
+        "ID": 838670,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
+        "Value": 6.0
+    },
+    {
+        "ID": 838671,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
+        "Value": 3.3
+    },
+    {
+        "ID": 838672,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
+        "Value": 5.2
+    },
+    {
+        "ID": 838673,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
+        "Value": 5.3
+    },
+    {
+        "ID": 838674,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
+        "Value": 4.4
+    },
+    {
+        "ID": 838675,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
+        "Value": 4.3
+    },
+    {
+        "ID": 838676,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
+        "Value": 5.7
+    },
+    {
+        "ID": 838677,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
+        "Value": 2.6
+    },
+    {
+        "ID": 838678,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-15 15:00:00.000",
+        "Value": 2.5
+    },
+    {
+        "ID": 838690,
+        "SiteID": "360850111",
+        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
+        "Value": 4.6
+    },
+    {
+        "ID": 838691,
+        "SiteID": "360610135",
+        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
+        "Value": 5.0
+    },
+    {
+        "ID": 838692,
+        "SiteID": "360810124",
+        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
+        "Value": 5.5
+    },
+    {
+        "ID": 838693,
+        "SiteID": "360470118",
+        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
+        "Value": 6.3
+    },
+    {
+        "ID": 838694,
+        "SiteID": "360050110",
+        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
+        "Value": 4.8
+    },
+    {
+        "ID": 838695,
+        "SiteID": "360810120",
+        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
+        "Value": 3.8
+    },
+    {
+        "ID": 838696,
+        "SiteID": "360610115",
+        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
+        "Value": 3.5
+    },
+    {
+        "ID": 838697,
+        "SiteID": "360470052",
+        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
+        "Value": 5.1
+    },
+    {
+        "ID": 838698,
+        "SiteID": "360050112",
+        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
+        "Value": 7.0
+    },
+    {
+        "ID": 838699,
+        "SiteID": "360050080",
+        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
+        "Value": 1.4
+    },
+    {
         "ID": 838656,
         "SiteID": "36061NY09929",
         "ObservationTimeUTC": "2025-10-15 16:00:00.000",
@@ -51394,66 +51454,6 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2025-10-15 16:00:00.000",
         "Value": 6.81
-    },
-    {
-        "ID": 838690,
-        "SiteID": "360850111",
-        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
-        "Value": 4.6
-    },
-    {
-        "ID": 838691,
-        "SiteID": "360610135",
-        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
-        "Value": 5.0
-    },
-    {
-        "ID": 838692,
-        "SiteID": "360810124",
-        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
-        "Value": 5.5
-    },
-    {
-        "ID": 838693,
-        "SiteID": "360470118",
-        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
-        "Value": 6.3
-    },
-    {
-        "ID": 838694,
-        "SiteID": "360050110",
-        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
-        "Value": 4.8
-    },
-    {
-        "ID": 838695,
-        "SiteID": "360810120",
-        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
-        "Value": 3.8
-    },
-    {
-        "ID": 838696,
-        "SiteID": "360610115",
-        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
-        "Value": 3.5
-    },
-    {
-        "ID": 838697,
-        "SiteID": "360470052",
-        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
-        "Value": 5.1
-    },
-    {
-        "ID": 838698,
-        "SiteID": "360050112",
-        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
-        "Value": 7.0
-    },
-    {
-        "ID": 838699,
-        "SiteID": "360050080",
-        "ObservationTimeUTC": "2025-10-15 16:00:00.000",
-        "Value": 1.4
     },
     {
         "ID": 838713,
