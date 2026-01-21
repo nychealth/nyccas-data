@@ -5,7 +5,8 @@ Readings from New York City Community Air Survey (NYCCAS) Real Time air monitors
 
 **Measurements:** The value shown is PM2.5 in micrograms per cubic meter of air (µg/m3). ObservationTimeUTC datetime stamp displayed is the beginning of the averaged PM2.5 measurements for the hour (e.g. 2/1/2020 1:00:00 AM (UTC) reflects data collected between 2/1/2020 1:00:00 AM (UTC) and 2/1/2020 1:59:00 AM (UTC)).
 
-**Public data use:** NYCCAS real time air monitor data must be cited if used publically. Here is a suggested citation: 
+**Public data use:** NYCCAS real time air monitor data must be cited if used publically. Suggested citation below:
+
 New York City Department of Health and Mental Hygiene and Queens College. New York City Community Air Survey. Real-time PM2.5 Monitor Data from *MM-DD-YYYY* to *MM-DD-YYYY*. https://a816-dohbesp.nyc.gov/IndicatorPublic/data-features/realtime-air-quality/. Date downloaded: *MM-DD-YYYY*
 
 External factors can sometimes affect monitor functioning. Data are preliminary and subject to change.
