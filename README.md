@@ -16,4 +16,5 @@ External factors can sometimes affect monitor functioning. Data are preliminary 
 
 ## Change log
 6/10/2024: Updated correction factor applied to all current and historical data. Data downloaded before this date may differ slightly from data downloaded after this date.
+
 5/12/2026: Removed NY DEC and some data due to a sensor malfunction from data files.
