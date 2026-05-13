@@ -1332,36 +1332,6 @@
         "Value": 5.78
     },
     {
-        "ID": 939307,
-        "SiteID": "36061NY10130",
-        "ObservationTimeUTC": "2026-05-01 17:00:00.000",
-        "Value": 4.57
-    },
-    {
-        "ID": 939308,
-        "SiteID": "36061NY08552",
-        "ObservationTimeUTC": "2026-05-01 17:00:00.000",
-        "Value": 4.09
-    },
-    {
-        "ID": 939309,
-        "SiteID": "36081NY09285",
-        "ObservationTimeUTC": "2026-05-01 17:00:00.000",
-        "Value": 3.49
-    },
-    {
-        "ID": 939310,
-        "SiteID": "36005NY12387",
-        "ObservationTimeUTC": "2026-05-01 17:00:00.000",
-        "Value": 3.56
-    },
-    {
-        "ID": 939311,
-        "SiteID": "36005NY11790",
-        "ObservationTimeUTC": "2026-05-01 17:00:00.000",
-        "Value": 5.05
-    },
-    {
         "ID": 939312,
         "SiteID": "36005NY11534",
         "ObservationTimeUTC": "2026-05-01 17:00:00.000",
@@ -1402,6 +1372,36 @@
         "SiteID": "36061NY08454",
         "ObservationTimeUTC": "2026-05-01 17:00:00.000",
         "Value": 4.59
+    },
+    {
+        "ID": 939307,
+        "SiteID": "36061NY10130",
+        "ObservationTimeUTC": "2026-05-01 17:00:00.000",
+        "Value": 4.57
+    },
+    {
+        "ID": 939308,
+        "SiteID": "36061NY08552",
+        "ObservationTimeUTC": "2026-05-01 17:00:00.000",
+        "Value": 4.09
+    },
+    {
+        "ID": 939309,
+        "SiteID": "36081NY09285",
+        "ObservationTimeUTC": "2026-05-01 17:00:00.000",
+        "Value": 3.49
+    },
+    {
+        "ID": 939310,
+        "SiteID": "36005NY12387",
+        "ObservationTimeUTC": "2026-05-01 17:00:00.000",
+        "Value": 3.56
+    },
+    {
+        "ID": 939311,
+        "SiteID": "36005NY11790",
+        "ObservationTimeUTC": "2026-05-01 17:00:00.000",
+        "Value": 5.05
     },
     {
         "ID": 939327,
@@ -4368,12 +4368,6 @@
         "Value": 3.27
     },
     {
-        "ID": 940155,
-        "SiteID": "36061NY10130",
-        "ObservationTimeUTC": "2026-05-03 08:00:00.000",
-        "Value": 2.84
-    },
-    {
         "ID": 940156,
         "SiteID": "36061NY08552",
         "ObservationTimeUTC": "2026-05-03 08:00:00.000",
@@ -4444,6 +4438,12 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2026-05-03 08:00:00.000",
         "Value": 3.41
+    },
+    {
+        "ID": 940155,
+        "SiteID": "36061NY10130",
+        "ObservationTimeUTC": "2026-05-03 08:00:00.000",
+        "Value": 2.84
     },
     {
         "ID": 940177,
@@ -5070,24 +5070,6 @@
         "Value": 3.98
     },
     {
-        "ID": 940355,
-        "SiteID": "36085NY03820",
-        "ObservationTimeUTC": "2026-05-03 17:00:00.000",
-        "Value": 2.94
-    },
-    {
-        "ID": 940356,
-        "SiteID": "36047NY07974",
-        "ObservationTimeUTC": "2026-05-03 17:00:00.000",
-        "Value": 3.6
-    },
-    {
-        "ID": 940357,
-        "SiteID": "36061NY12380",
-        "ObservationTimeUTC": "2026-05-03 17:00:00.000",
-        "Value": 3.83
-    },
-    {
         "ID": 940345,
         "SiteID": "36061NY10130",
         "ObservationTimeUTC": "2026-05-03 17:00:00.000",
@@ -5146,6 +5128,24 @@
         "SiteID": "36081NY07615",
         "ObservationTimeUTC": "2026-05-03 17:00:00.000",
         "Value": 3.36
+    },
+    {
+        "ID": 940355,
+        "SiteID": "36085NY03820",
+        "ObservationTimeUTC": "2026-05-03 17:00:00.000",
+        "Value": 2.94
+    },
+    {
+        "ID": 940356,
+        "SiteID": "36047NY07974",
+        "ObservationTimeUTC": "2026-05-03 17:00:00.000",
+        "Value": 3.6
+    },
+    {
+        "ID": 940357,
+        "SiteID": "36061NY12380",
+        "ObservationTimeUTC": "2026-05-03 17:00:00.000",
+        "Value": 3.83
     },
     {
         "ID": 940367,
@@ -10620,6 +10620,24 @@
         "Value": 12.5
     },
     {
+        "ID": 941938,
+        "SiteID": "36081NY07615",
+        "ObservationTimeUTC": "2026-05-06 16:00:00.000",
+        "Value": 7.51
+    },
+    {
+        "ID": 941940,
+        "SiteID": "36085NY03820",
+        "ObservationTimeUTC": "2026-05-06 16:00:00.000",
+        "Value": 4.61
+    },
+    {
+        "ID": 941942,
+        "SiteID": "36047NY07974",
+        "ObservationTimeUTC": "2026-05-06 16:00:00.000",
+        "Value": 6.69
+    },
+    {
         "ID": 941922,
         "SiteID": "36061NY08552",
         "ObservationTimeUTC": "2026-05-06 16:00:00.000",
@@ -10656,12 +10674,6 @@
         "Value": 9.46
     },
     {
-        "ID": 941942,
-        "SiteID": "36047NY07974",
-        "ObservationTimeUTC": "2026-05-06 16:00:00.000",
-        "Value": 6.69
-    },
-    {
         "ID": 941934,
         "SiteID": "36005NY11534",
         "ObservationTimeUTC": "2026-05-06 16:00:00.000",
@@ -10674,30 +10686,6 @@
         "Value": 5.61
     },
     {
-        "ID": 941938,
-        "SiteID": "36081NY07615",
-        "ObservationTimeUTC": "2026-05-06 16:00:00.000",
-        "Value": 7.51
-    },
-    {
-        "ID": 941940,
-        "SiteID": "36085NY03820",
-        "ObservationTimeUTC": "2026-05-06 16:00:00.000",
-        "Value": 4.61
-    },
-    {
-        "ID": 941941,
-        "SiteID": "36085NY03820",
-        "ObservationTimeUTC": "2026-05-06 17:00:00.000",
-        "Value": 4.66
-    },
-    {
-        "ID": 941939,
-        "SiteID": "36081NY07615",
-        "ObservationTimeUTC": "2026-05-06 17:00:00.000",
-        "Value": 8.13
-    },
-    {
         "ID": 941937,
         "SiteID": "36061NY08653",
         "ObservationTimeUTC": "2026-05-06 17:00:00.000",
@@ -10708,12 +10696,6 @@
         "SiteID": "36005NY11534",
         "ObservationTimeUTC": "2026-05-06 17:00:00.000",
         "Value": 7.66
-    },
-    {
-        "ID": 941943,
-        "SiteID": "36047NY07974",
-        "ObservationTimeUTC": "2026-05-06 17:00:00.000",
-        "Value": 7.51
     },
     {
         "ID": 941933,
@@ -10750,6 +10732,24 @@
         "SiteID": "36061NY08552",
         "ObservationTimeUTC": "2026-05-06 17:00:00.000",
         "Value": 5.82
+    },
+    {
+        "ID": 941943,
+        "SiteID": "36047NY07974",
+        "ObservationTimeUTC": "2026-05-06 17:00:00.000",
+        "Value": 7.51
+    },
+    {
+        "ID": 941941,
+        "SiteID": "36085NY03820",
+        "ObservationTimeUTC": "2026-05-06 17:00:00.000",
+        "Value": 4.66
+    },
+    {
+        "ID": 941939,
+        "SiteID": "36081NY07615",
+        "ObservationTimeUTC": "2026-05-06 17:00:00.000",
+        "Value": 8.13
     },
     {
         "ID": 941945,
@@ -13572,18 +13572,6 @@
         "Value": 5.03
     },
     {
-        "ID": 942711,
-        "SiteID": "36061NY10130",
-        "ObservationTimeUTC": "2026-05-08 06:00:00.000",
-        "Value": 3.28
-    },
-    {
-        "ID": 942712,
-        "SiteID": "36061NY08552",
-        "ObservationTimeUTC": "2026-05-08 06:00:00.000",
-        "Value": 3.97
-    },
-    {
         "ID": 942713,
         "SiteID": "36081NY09285",
         "ObservationTimeUTC": "2026-05-08 06:00:00.000",
@@ -13648,6 +13636,18 @@
         "SiteID": "36061NY12380",
         "ObservationTimeUTC": "2026-05-08 06:00:00.000",
         "Value": 4.7
+    },
+    {
+        "ID": 942711,
+        "SiteID": "36061NY10130",
+        "ObservationTimeUTC": "2026-05-08 06:00:00.000",
+        "Value": 3.28
+    },
+    {
+        "ID": 942712,
+        "SiteID": "36061NY08552",
+        "ObservationTimeUTC": "2026-05-08 06:00:00.000",
+        "Value": 3.97
     },
     {
         "ID": 942733,
