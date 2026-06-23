@@ -1,5 +1,4 @@
 SiteName,Operator,starttime,timeofday,Value
-BQE,nyccas,2026-06-14 21:00:00.000,09:00 PM,4.83
 BQE,nyccas,2026-06-14 22:00:00.000,10:00 PM,4.33
 BQE,nyccas,2026-06-14 23:00:00.000,11:00 PM,6.05
 BQE,nyccas,2026-06-15 00:00:00.000,12:00 AM,7.21
@@ -194,7 +193,7 @@ BQE,nyccas,2026-06-22 20:00:00.000,08:00 PM,10.15
 BQE,nyccas,2026-06-22 21:00:00.000,09:00 PM,9.2
 BQE,nyccas,2026-06-22 22:00:00.000,10:00 PM,9.05
 BQE,nyccas,2026-06-22 23:00:00.000,11:00 PM,7.44
-Broadway_35th_St,nyccas,2026-06-14 21:00:00.000,09:00 PM,9.5
+BQE,nyccas,2026-06-23 00:00:00.000,12:00 AM,7.46
 Broadway_35th_St,nyccas,2026-06-14 22:00:00.000,10:00 PM,7.43
 Broadway_35th_St,nyccas,2026-06-14 23:00:00.000,11:00 PM,7.67
 Broadway_35th_St,nyccas,2026-06-15 00:00:00.000,12:00 AM,7.36
@@ -387,7 +386,7 @@ Broadway_35th_St,nyccas,2026-06-22 20:00:00.000,08:00 PM,14.32
 Broadway_35th_St,nyccas,2026-06-22 21:00:00.000,09:00 PM,14.62
 Broadway_35th_St,nyccas,2026-06-22 22:00:00.000,10:00 PM,12.49
 Broadway_35th_St,nyccas,2026-06-22 23:00:00.000,11:00 PM,9.67
-Cross_Bronx_Expy,nyccas,2026-06-14 21:00:00.000,09:00 PM,7.93
+Broadway_35th_St,nyccas,2026-06-23 00:00:00.000,12:00 AM,10.48
 Cross_Bronx_Expy,nyccas,2026-06-14 22:00:00.000,10:00 PM,6.56
 Cross_Bronx_Expy,nyccas,2026-06-14 23:00:00.000,11:00 PM,7.64
 Cross_Bronx_Expy,nyccas,2026-06-15 00:00:00.000,12:00 AM,8.59
@@ -582,7 +581,7 @@ Cross_Bronx_Expy,nyccas,2026-06-22 20:00:00.000,08:00 PM,11.6
 Cross_Bronx_Expy,nyccas,2026-06-22 21:00:00.000,09:00 PM,11.48
 Cross_Bronx_Expy,nyccas,2026-06-22 22:00:00.000,10:00 PM,8.98
 Cross_Bronx_Expy,nyccas,2026-06-22 23:00:00.000,11:00 PM,12.76
-DEC_Avg,DEC,2026-06-14 21:00:00.000,09:00 PM,7.29
+Cross_Bronx_Expy,nyccas,2026-06-23 00:00:00.000,12:00 AM,8.33
 DEC_Avg,DEC,2026-06-14 22:00:00.000,10:00 PM,7.17
 DEC_Avg,DEC,2026-06-14 23:00:00.000,11:00 PM,8.47
 DEC_Avg,DEC,2026-06-15 00:00:00.000,12:00 AM,6.6
@@ -776,7 +775,7 @@ DEC_Avg,DEC,2026-06-22 19:00:00.000,07:00 PM,10.38
 DEC_Avg,DEC,2026-06-22 20:00:00.000,08:00 PM,11.56
 DEC_Avg,DEC,2026-06-22 21:00:00.000,09:00 PM,10.53
 DEC_Avg,DEC,2026-06-22 22:00:00.000,10:00 PM,8.08
-FDR,nyccas,2026-06-14 21:00:00.000,09:00 PM,6.31
+DEC_Avg,DEC,2026-06-22 23:00:00.000,11:00 PM,7.32
 FDR,nyccas,2026-06-14 22:00:00.000,10:00 PM,6.13
 FDR,nyccas,2026-06-14 23:00:00.000,11:00 PM,7.6
 FDR,nyccas,2026-06-15 00:00:00.000,12:00 AM,6.21
@@ -971,10 +970,9 @@ FDR,nyccas,2026-06-22 20:00:00.000,08:00 PM,10.06
 FDR,nyccas,2026-06-22 21:00:00.000,09:00 PM,8.47
 FDR,nyccas,2026-06-22 22:00:00.000,10:00 PM,8.09
 FDR,nyccas,2026-06-22 23:00:00.000,11:00 PM,7.73
-Hamilton_Bridge,nyccas,2026-06-14 21:00:00.000,09:00 PM,9.02
+FDR,nyccas,2026-06-23 00:00:00.000,12:00 AM,8.04
 Hamilton_Bridge,nyccas,2026-06-14 22:00:00.000,10:00 PM,9.74
 Hamilton_Bridge,nyccas,2026-06-14 23:00:00.000,11:00 PM,10.37
-Hunts_Point,nyccas,2026-06-14 21:00:00.000,09:00 PM,6.75
 Hunts_Point,nyccas,2026-06-14 22:00:00.000,10:00 PM,6.65
 Hunts_Point,nyccas,2026-06-14 23:00:00.000,11:00 PM,6.76
 Hunts_Point,nyccas,2026-06-15 00:00:00.000,12:00 AM,7.03
@@ -1169,7 +1167,7 @@ Hunts_Point,nyccas,2026-06-22 20:00:00.000,08:00 PM,12.49
 Hunts_Point,nyccas,2026-06-22 21:00:00.000,09:00 PM,9.0
 Hunts_Point,nyccas,2026-06-22 22:00:00.000,10:00 PM,6.65
 Hunts_Point,nyccas,2026-06-22 23:00:00.000,11:00 PM,7.47
-Manhattan_Bridge,nyccas,2026-06-14 21:00:00.000,09:00 PM,7.25
+Hunts_Point,nyccas,2026-06-23 00:00:00.000,12:00 AM,7.07
 Manhattan_Bridge,nyccas,2026-06-14 22:00:00.000,10:00 PM,6.33
 Manhattan_Bridge,nyccas,2026-06-14 23:00:00.000,11:00 PM,6.76
 Manhattan_Bridge,nyccas,2026-06-15 00:00:00.000,12:00 AM,6.88
@@ -1364,7 +1362,7 @@ Manhattan_Bridge,nyccas,2026-06-22 20:00:00.000,08:00 PM,13.31
 Manhattan_Bridge,nyccas,2026-06-22 21:00:00.000,09:00 PM,11.53
 Manhattan_Bridge,nyccas,2026-06-22 22:00:00.000,10:00 PM,10.5
 Manhattan_Bridge,nyccas,2026-06-22 23:00:00.000,11:00 PM,8.3
-Mott_Haven,nyccas,2026-06-14 21:00:00.000,09:00 PM,5.52
+Manhattan_Bridge,nyccas,2026-06-23 00:00:00.000,12:00 AM,9.51
 Mott_Haven,nyccas,2026-06-14 22:00:00.000,10:00 PM,5.32
 Mott_Haven,nyccas,2026-06-14 23:00:00.000,11:00 PM,5.8
 Mott_Haven,nyccas,2026-06-15 00:00:00.000,12:00 AM,6.74
@@ -1559,7 +1557,7 @@ Mott_Haven,nyccas,2026-06-22 20:00:00.000,08:00 PM,10.55
 Mott_Haven,nyccas,2026-06-22 21:00:00.000,09:00 PM,8.24
 Mott_Haven,nyccas,2026-06-22 22:00:00.000,10:00 PM,7.66
 Mott_Haven,nyccas,2026-06-22 23:00:00.000,11:00 PM,6.56
-Queensboro_Bridge,nyccas,2026-06-14 21:00:00.000,09:00 PM,7.96
+Mott_Haven,nyccas,2026-06-23 00:00:00.000,12:00 AM,6.07
 Queensboro_Bridge,nyccas,2026-06-14 22:00:00.000,10:00 PM,5.88
 Queensboro_Bridge,nyccas,2026-06-14 23:00:00.000,11:00 PM,6.52
 Queensboro_Bridge,nyccas,2026-06-15 00:00:00.000,12:00 AM,6.24
@@ -1754,7 +1752,7 @@ Queensboro_Bridge,nyccas,2026-06-22 20:00:00.000,08:00 PM,12.31
 Queensboro_Bridge,nyccas,2026-06-22 21:00:00.000,09:00 PM,11.23
 Queensboro_Bridge,nyccas,2026-06-22 22:00:00.000,10:00 PM,9.55
 Queensboro_Bridge,nyccas,2026-06-22 23:00:00.000,11:00 PM,7.96
-SI_Expwy,nyccas,2026-06-14 21:00:00.000,09:00 PM,6.14
+Queensboro_Bridge,nyccas,2026-06-23 00:00:00.000,12:00 AM,8.63
 SI_Expwy,nyccas,2026-06-14 22:00:00.000,10:00 PM,6.29
 SI_Expwy,nyccas,2026-06-14 23:00:00.000,11:00 PM,8.53
 SI_Expwy,nyccas,2026-06-15 00:00:00.000,12:00 AM,7.56
@@ -1949,7 +1947,7 @@ SI_Expwy,nyccas,2026-06-22 20:00:00.000,08:00 PM,17.24
 SI_Expwy,nyccas,2026-06-22 21:00:00.000,09:00 PM,14.49
 SI_Expwy,nyccas,2026-06-22 22:00:00.000,10:00 PM,15.08
 SI_Expwy,nyccas,2026-06-22 23:00:00.000,11:00 PM,13.27
-Van_Wyck,nyccas,2026-06-14 21:00:00.000,09:00 PM,5.68
+SI_Expwy,nyccas,2026-06-23 00:00:00.000,12:00 AM,10.83
 Van_Wyck,nyccas,2026-06-14 22:00:00.000,10:00 PM,5.98
 Van_Wyck,nyccas,2026-06-14 23:00:00.000,11:00 PM,6.59
 Van_Wyck,nyccas,2026-06-15 00:00:00.000,12:00 AM,7.49
@@ -2144,7 +2142,7 @@ Van_Wyck,nyccas,2026-06-22 20:00:00.000,08:00 PM,9.84
 Van_Wyck,nyccas,2026-06-22 21:00:00.000,09:00 PM,6.61
 Van_Wyck,nyccas,2026-06-22 22:00:00.000,10:00 PM,6.66
 Van_Wyck,nyccas,2026-06-22 23:00:00.000,11:00 PM,6.9
-Williamsburg_Bridge,nyccas,2026-06-14 21:00:00.000,09:00 PM,6.28
+Van_Wyck,nyccas,2026-06-23 00:00:00.000,12:00 AM,8.3
 Williamsburg_Bridge,nyccas,2026-06-14 22:00:00.000,10:00 PM,5.74
 Williamsburg_Bridge,nyccas,2026-06-14 23:00:00.000,11:00 PM,6.66
 Williamsburg_Bridge,nyccas,2026-06-15 00:00:00.000,12:00 AM,7.46
@@ -2339,3 +2337,4 @@ Williamsburg_Bridge,nyccas,2026-06-22 20:00:00.000,08:00 PM,11.86
 Williamsburg_Bridge,nyccas,2026-06-22 21:00:00.000,09:00 PM,10.83
 Williamsburg_Bridge,nyccas,2026-06-22 22:00:00.000,10:00 PM,9.53
 Williamsburg_Bridge,nyccas,2026-06-22 23:00:00.000,11:00 PM,7.84
+Williamsburg_Bridge,nyccas,2026-06-23 00:00:00.000,12:00 AM,7.94
