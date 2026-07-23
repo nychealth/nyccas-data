@@ -18,3 +18,5 @@ External factors can sometimes affect monitor functioning. Data are preliminary 
 6/10/2024: Updated correction factor applied to all current and historical data. Data downloaded before this date may differ slightly from data downloaded after this date.
 
 5/12/2026: Removed NY DEC and some data due to a sensor malfunction from data files.
+
+6/24/2026: Midtown West monitor location was moved from 40.75508,-73.99041 to 40.755139, -73.990863.
