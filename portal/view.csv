@@ -1,6 +1,4 @@
 SiteName,Operator,starttime,timeofday,Value
-BQE,nyccas,2026-07-16 22:00:00.000,10:00 PM,89.89
-BQE,nyccas,2026-07-16 23:00:00.000,11:00 PM,79.51
 BQE,nyccas,2026-07-17 00:00:00.000,12:00 AM,72.67
 BQE,nyccas,2026-07-17 01:00:00.000,01:00 AM,72.1
 BQE,nyccas,2026-07-17 02:00:00.000,02:00 AM,68.25
@@ -194,8 +192,8 @@ BQE,nyccas,2026-07-24 21:00:00.000,09:00 PM,3.8
 BQE,nyccas,2026-07-24 22:00:00.000,10:00 PM,3.85
 BQE,nyccas,2026-07-24 23:00:00.000,11:00 PM,3.85
 BQE,nyccas,2026-07-25 00:00:00.000,12:00 AM,4.22
-Broadway_35th_St,nyccas,2026-07-16 22:00:00.000,10:00 PM,131.54
-Broadway_35th_St,nyccas,2026-07-16 23:00:00.000,11:00 PM,122.86
+BQE,nyccas,2026-07-25 01:00:00.000,01:00 AM,4.08
+BQE,nyccas,2026-07-25 02:00:00.000,02:00 AM,4.46
 Broadway_35th_St,nyccas,2026-07-17 00:00:00.000,12:00 AM,109.45
 Broadway_35th_St,nyccas,2026-07-17 01:00:00.000,01:00 AM,105.38
 Broadway_35th_St,nyccas,2026-07-17 02:00:00.000,02:00 AM,99.33
@@ -388,8 +386,8 @@ Broadway_35th_St,nyccas,2026-07-24 21:00:00.000,09:00 PM,8.65
 Broadway_35th_St,nyccas,2026-07-24 22:00:00.000,10:00 PM,7.79
 Broadway_35th_St,nyccas,2026-07-24 23:00:00.000,11:00 PM,5.85
 Broadway_35th_St,nyccas,2026-07-25 00:00:00.000,12:00 AM,6.26
-Cross_Bronx_Expy,nyccas,2026-07-16 22:00:00.000,10:00 PM,118.53
-Cross_Bronx_Expy,nyccas,2026-07-16 23:00:00.000,11:00 PM,105.29
+Broadway_35th_St,nyccas,2026-07-25 01:00:00.000,01:00 AM,5.23
+Broadway_35th_St,nyccas,2026-07-25 02:00:00.000,02:00 AM,4.97
 Cross_Bronx_Expy,nyccas,2026-07-17 00:00:00.000,12:00 AM,99.51
 Cross_Bronx_Expy,nyccas,2026-07-17 01:00:00.000,01:00 AM,92.88
 Cross_Bronx_Expy,nyccas,2026-07-17 02:00:00.000,02:00 AM,94.49
@@ -583,8 +581,8 @@ Cross_Bronx_Expy,nyccas,2026-07-24 21:00:00.000,09:00 PM,7.0
 Cross_Bronx_Expy,nyccas,2026-07-24 22:00:00.000,10:00 PM,7.21
 Cross_Bronx_Expy,nyccas,2026-07-24 23:00:00.000,11:00 PM,7.29
 Cross_Bronx_Expy,nyccas,2026-07-25 00:00:00.000,12:00 AM,7.29
-DEC_Avg,DEC,2026-07-16 22:00:00.000,10:00 PM,136.94
-DEC_Avg,DEC,2026-07-16 23:00:00.000,11:00 PM,114.84
+Cross_Bronx_Expy,nyccas,2026-07-25 01:00:00.000,01:00 AM,7.35
+Cross_Bronx_Expy,nyccas,2026-07-25 02:00:00.000,02:00 AM,5.5
 DEC_Avg,DEC,2026-07-17 00:00:00.000,12:00 AM,105.07
 DEC_Avg,DEC,2026-07-17 01:00:00.000,01:00 AM,98.41
 DEC_Avg,DEC,2026-07-17 02:00:00.000,02:00 AM,98.2
@@ -777,6 +775,8 @@ DEC_Avg,DEC,2026-07-24 20:00:00.000,08:00 PM,5.39
 DEC_Avg,DEC,2026-07-24 21:00:00.000,09:00 PM,5.77
 DEC_Avg,DEC,2026-07-24 22:00:00.000,10:00 PM,7.53
 DEC_Avg,DEC,2026-07-24 23:00:00.000,11:00 PM,5.07
+DEC_Avg,DEC,2026-07-25 00:00:00.000,12:00 AM,4.52
+DEC_Avg,DEC,2026-07-25 01:00:00.000,01:00 AM,4.7
 FDR,nyccas,2026-07-22 18:00:00.000,06:00 PM,7.99
 FDR,nyccas,2026-07-22 19:00:00.000,07:00 PM,7.98
 FDR,nyccas,2026-07-22 20:00:00.000,08:00 PM,7.28
@@ -832,8 +832,8 @@ FDR,nyccas,2026-07-24 21:00:00.000,09:00 PM,6.39
 FDR,nyccas,2026-07-24 22:00:00.000,10:00 PM,8.69
 FDR,nyccas,2026-07-24 23:00:00.000,11:00 PM,8.26
 FDR,nyccas,2026-07-25 00:00:00.000,12:00 AM,6.89
-Hamilton_Bridge,nyccas,2026-07-16 22:00:00.000,10:00 PM,120.26
-Hamilton_Bridge,nyccas,2026-07-16 23:00:00.000,11:00 PM,106.24
+FDR,nyccas,2026-07-25 01:00:00.000,01:00 AM,5.85
+FDR,nyccas,2026-07-25 02:00:00.000,02:00 AM,6.84
 Hamilton_Bridge,nyccas,2026-07-17 00:00:00.000,12:00 AM,99.13
 Hamilton_Bridge,nyccas,2026-07-17 01:00:00.000,01:00 AM,98.46
 Hamilton_Bridge,nyccas,2026-07-17 02:00:00.000,02:00 AM,99.13
@@ -1005,8 +1005,6 @@ Hamilton_Bridge,nyccas,2026-07-23 23:00:00.000,11:00 PM,7.98
 Hamilton_Bridge,nyccas,2026-07-24 00:00:00.000,12:00 AM,5.78
 Hamilton_Bridge,nyccas,2026-07-24 01:00:00.000,01:00 AM,5.81
 Hamilton_Bridge,nyccas,2026-07-24 02:00:00.000,02:00 AM,5.74
-Hunts_Point,nyccas,2026-07-16 22:00:00.000,10:00 PM,131.16
-Hunts_Point,nyccas,2026-07-16 23:00:00.000,11:00 PM,99.8
 Hunts_Point,nyccas,2026-07-17 00:00:00.000,12:00 AM,91.02
 Hunts_Point,nyccas,2026-07-17 01:00:00.000,01:00 AM,86.6
 Hunts_Point,nyccas,2026-07-17 02:00:00.000,02:00 AM,89.53
@@ -1200,8 +1198,8 @@ Hunts_Point,nyccas,2026-07-24 21:00:00.000,09:00 PM,6.41
 Hunts_Point,nyccas,2026-07-24 22:00:00.000,10:00 PM,15.77
 Hunts_Point,nyccas,2026-07-24 23:00:00.000,11:00 PM,5.52
 Hunts_Point,nyccas,2026-07-25 00:00:00.000,12:00 AM,5.12
-Manhattan_Bridge,nyccas,2026-07-16 22:00:00.000,10:00 PM,132.57
-Manhattan_Bridge,nyccas,2026-07-16 23:00:00.000,11:00 PM,125.2
+Hunts_Point,nyccas,2026-07-25 01:00:00.000,01:00 AM,6.6
+Hunts_Point,nyccas,2026-07-25 02:00:00.000,02:00 AM,6.66
 Manhattan_Bridge,nyccas,2026-07-17 00:00:00.000,12:00 AM,114.0
 Manhattan_Bridge,nyccas,2026-07-17 01:00:00.000,01:00 AM,105.1
 Manhattan_Bridge,nyccas,2026-07-17 02:00:00.000,02:00 AM,99.4
@@ -1395,8 +1393,8 @@ Manhattan_Bridge,nyccas,2026-07-24 21:00:00.000,09:00 PM,6.11
 Manhattan_Bridge,nyccas,2026-07-24 22:00:00.000,10:00 PM,5.65
 Manhattan_Bridge,nyccas,2026-07-24 23:00:00.000,11:00 PM,5.64
 Manhattan_Bridge,nyccas,2026-07-25 00:00:00.000,12:00 AM,5.45
-Midtown_DOT,nyccas,2026-07-16 22:00:00.000,10:00 PM,137.7
-Midtown_DOT,nyccas,2026-07-16 23:00:00.000,11:00 PM,130.2
+Manhattan_Bridge,nyccas,2026-07-25 01:00:00.000,01:00 AM,5.2
+Manhattan_Bridge,nyccas,2026-07-25 02:00:00.000,02:00 AM,5.4
 Midtown_DOT,nyccas,2026-07-17 00:00:00.000,12:00 AM,117.78
 Midtown_DOT,nyccas,2026-07-17 01:00:00.000,01:00 AM,112.27
 Midtown_DOT,nyccas,2026-07-17 02:00:00.000,02:00 AM,106.03
@@ -1590,8 +1588,8 @@ Midtown_DOT,nyccas,2026-07-24 21:00:00.000,09:00 PM,8.63
 Midtown_DOT,nyccas,2026-07-24 22:00:00.000,10:00 PM,10.38
 Midtown_DOT,nyccas,2026-07-24 23:00:00.000,11:00 PM,9.73
 Midtown_DOT,nyccas,2026-07-25 00:00:00.000,12:00 AM,8.35
-Mott_Haven,nyccas,2026-07-16 22:00:00.000,10:00 PM,120.03
-Mott_Haven,nyccas,2026-07-16 23:00:00.000,11:00 PM,95.23
+Midtown_DOT,nyccas,2026-07-25 01:00:00.000,01:00 AM,6.55
+Midtown_DOT,nyccas,2026-07-25 02:00:00.000,02:00 AM,5.49
 Mott_Haven,nyccas,2026-07-17 00:00:00.000,12:00 AM,84.77
 Mott_Haven,nyccas,2026-07-17 01:00:00.000,01:00 AM,82.83
 Mott_Haven,nyccas,2026-07-17 02:00:00.000,02:00 AM,87.16
@@ -1695,8 +1693,8 @@ Mott_Haven,nyccas,2026-07-24 21:00:00.000,09:00 PM,5.55
 Mott_Haven,nyccas,2026-07-24 22:00:00.000,10:00 PM,6.45
 Mott_Haven,nyccas,2026-07-24 23:00:00.000,11:00 PM,4.95
 Mott_Haven,nyccas,2026-07-25 00:00:00.000,12:00 AM,5.14
-Queens_College,nyccas,2026-07-16 22:00:00.000,10:00 PM,87.94
-Queens_College,nyccas,2026-07-16 23:00:00.000,11:00 PM,74.98
+Mott_Haven,nyccas,2026-07-25 01:00:00.000,01:00 AM,5.36
+Mott_Haven,nyccas,2026-07-25 02:00:00.000,02:00 AM,5.64
 Queens_College,nyccas,2026-07-17 00:00:00.000,12:00 AM,67.7
 Queens_College,nyccas,2026-07-17 01:00:00.000,01:00 AM,66.39
 Queens_College,nyccas,2026-07-17 02:00:00.000,02:00 AM,67.06
@@ -1890,8 +1888,8 @@ Queens_College,nyccas,2026-07-24 21:00:00.000,09:00 PM,3.84
 Queens_College,nyccas,2026-07-24 22:00:00.000,10:00 PM,3.75
 Queens_College,nyccas,2026-07-24 23:00:00.000,11:00 PM,3.71
 Queens_College,nyccas,2026-07-25 00:00:00.000,12:00 AM,4.33
-Queensboro_Bridge,nyccas,2026-07-16 22:00:00.000,10:00 PM,95.35
-Queensboro_Bridge,nyccas,2026-07-16 23:00:00.000,11:00 PM,85.65
+Queens_College,nyccas,2026-07-25 01:00:00.000,01:00 AM,4.83
+Queens_College,nyccas,2026-07-25 02:00:00.000,02:00 AM,5.08
 Queensboro_Bridge,nyccas,2026-07-17 00:00:00.000,12:00 AM,78.61
 Queensboro_Bridge,nyccas,2026-07-17 01:00:00.000,01:00 AM,73.76
 Queensboro_Bridge,nyccas,2026-07-17 02:00:00.000,02:00 AM,73.1
@@ -2085,8 +2083,8 @@ Queensboro_Bridge,nyccas,2026-07-24 21:00:00.000,09:00 PM,5.68
 Queensboro_Bridge,nyccas,2026-07-24 22:00:00.000,10:00 PM,5.53
 Queensboro_Bridge,nyccas,2026-07-24 23:00:00.000,11:00 PM,5.45
 Queensboro_Bridge,nyccas,2026-07-25 00:00:00.000,12:00 AM,5.43
-SI_Expwy,nyccas,2026-07-16 22:00:00.000,10:00 PM,153.14
-SI_Expwy,nyccas,2026-07-16 23:00:00.000,11:00 PM,145.67
+Queensboro_Bridge,nyccas,2026-07-25 01:00:00.000,01:00 AM,5.2
+Queensboro_Bridge,nyccas,2026-07-25 02:00:00.000,02:00 AM,5.32
 SI_Expwy,nyccas,2026-07-17 00:00:00.000,12:00 AM,132.71
 SI_Expwy,nyccas,2026-07-17 01:00:00.000,01:00 AM,119.16
 SI_Expwy,nyccas,2026-07-17 02:00:00.000,02:00 AM,111.58
@@ -2280,8 +2278,8 @@ SI_Expwy,nyccas,2026-07-24 21:00:00.000,09:00 PM,5.28
 SI_Expwy,nyccas,2026-07-24 22:00:00.000,10:00 PM,5.24
 SI_Expwy,nyccas,2026-07-24 23:00:00.000,11:00 PM,5.33
 SI_Expwy,nyccas,2026-07-25 00:00:00.000,12:00 AM,5.06
-Van_Wyck,nyccas,2026-07-16 22:00:00.000,10:00 PM,93.68
-Van_Wyck,nyccas,2026-07-16 23:00:00.000,11:00 PM,94.09
+SI_Expwy,nyccas,2026-07-25 01:00:00.000,01:00 AM,5.01
+SI_Expwy,nyccas,2026-07-25 02:00:00.000,02:00 AM,5.4
 Van_Wyck,nyccas,2026-07-17 00:00:00.000,12:00 AM,76.06
 Van_Wyck,nyccas,2026-07-17 01:00:00.000,01:00 AM,75.47
 Van_Wyck,nyccas,2026-07-17 02:00:00.000,02:00 AM,75.98
@@ -2453,8 +2451,6 @@ Van_Wyck,nyccas,2026-07-23 23:00:00.000,11:00 PM,4.72
 Van_Wyck,nyccas,2026-07-24 00:00:00.000,12:00 AM,3.63
 Van_Wyck,nyccas,2026-07-24 01:00:00.000,01:00 AM,3.63
 Van_Wyck,nyccas,2026-07-24 02:00:00.000,02:00 AM,3.61
-Williamsburg_Bridge,nyccas,2026-07-16 22:00:00.000,10:00 PM,95.5
-Williamsburg_Bridge,nyccas,2026-07-16 23:00:00.000,11:00 PM,85.91
 Williamsburg_Bridge,nyccas,2026-07-17 00:00:00.000,12:00 AM,80.0
 Williamsburg_Bridge,nyccas,2026-07-17 01:00:00.000,01:00 AM,73.3
 Williamsburg_Bridge,nyccas,2026-07-17 02:00:00.000,02:00 AM,68.82
@@ -2648,3 +2644,5 @@ Williamsburg_Bridge,nyccas,2026-07-24 21:00:00.000,09:00 PM,4.96
 Williamsburg_Bridge,nyccas,2026-07-24 22:00:00.000,10:00 PM,5.24
 Williamsburg_Bridge,nyccas,2026-07-24 23:00:00.000,11:00 PM,4.7
 Williamsburg_Bridge,nyccas,2026-07-25 00:00:00.000,12:00 AM,5.15
+Williamsburg_Bridge,nyccas,2026-07-25 01:00:00.000,01:00 AM,4.88
+Williamsburg_Bridge,nyccas,2026-07-25 02:00:00.000,02:00 AM,5.91
